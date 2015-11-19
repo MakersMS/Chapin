@@ -5,7 +5,6 @@ unit RegExpr;
      Delphi Regular Expressions
 
  Copyright (c) 1999-2004 Andrey V. Sorokin, St.Petersburg, Russia
-
  You may use this software in any kind of development,
  including comercial, redistribute, and modify it freely,
  under the following restrictions :
