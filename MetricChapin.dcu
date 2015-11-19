@@ -1,55 +1,0 @@
-Я  †  МnQGЃ^с – <pMetricChapin.pasМnQG dSysInitыбАў    cdSystemыбАў    f
-AnsiStringФяЧfBooleanW~8fByte7cЁfStringФяЧfRealSЎ«<gTrue°№таgAssigned    gFalseЇ№таg@LStrAddRefціjg@LStrCmpEуa‚g@LStrClrСЁ}µg@HandleFinallyEуa‚gNew    g@Newы
-°g@LStrAsgѓ4µg
-@LStrArrayClrzYњґg@LStrCatEуa‚gDispose    g@Dispose№9”ceRegExprЃ^с    fTRegExprјЇ g	.TRegExprЈ=sщgTRegExpr.Createтrо:gTRegExpr.SetExpressionСrо:gTRegExpr.SetInputStringоrо:g
-TRegExpr.Execяrо:gTRegExpr.GetMatchмrо:gTRegExpr.ExecNextsо:ceSysUtilsыбАў    c4MetricChapinЂiif@c*List€іt[Љ*TList€‚ЖЉ .1f 4SysUtils @c4RegExpr .c(	FindPlace  "varList!namefш Result pfрc(	AddToList  q "varList!namefш pfрc(TakeVarsЂ|бкс ‘ "VarList
-!linefш expr subexprc(
-ChangeFunc   "varList!variablefш!func pfрc(ChangeActivity  ь "varList!variablefш!activ pfрcj(MakeChanges ™ "expr!groupck(
-DefineFuncЂ|бкс Ў "VarListfр!linefи%P
-  %M
-  %C
-   exprfа subexprfюcj(ChangeActivityForAll б !varListfш!lineF !activeck(DefineActivityЂ|бкс ! "VarList!linefи exprfш variablefа subexprfцc(
-DefineBugsЂўю‘ ` "VarList %C
-  %T
-   pf c(DeterminateChapinЂ“3и q
-"VarList  Resultf
- %P
-  %M
-  %C
-  %T
-      @њ@ 
-elementForDelf 
-elementOfListfc(FinalizationЂEуa‚ \! cћ(MetricChapinЂ     !cћюE DM6F,Name ,Activity,Func
-,NextcD     ЂяяяP@   D   эяI  lЅ/   TList              U‹мѓДшS‰Uь‹Ш‹Eьи    3АUhr   dя0d‰ ѓ; uіл1‹‰Eшл	‹Eш‹@‰Eшѓ}ш t‹Eш‹ ‹Uьи    uвѓ}ш uіл3Ы3АZYYd‰hy   ЌEьи    Гй    лр‹Г[YY]ГU‹мѓДшS‰Uь‹Ш‹Eьи    3АUhР   dя0d‰ ‹Г‹Uьи    „А„†   ѓ; u1‹    ё   и    ‰‹‹Uьи    ‹Ж@ ‹Ж@‹3Т‰PлP‹‰Eшл‰Eш‹Eш‹@…Аuу‹    ё   и    ‹Ш‹Eш‰X‰]ш‹Eш‹Uьи    ‹EшЖ@ ‹EшЖ@‹Eш3Т‰P3АZYYd‰hЧ   ЌEьи    Гй    лр[YY]ГU‹м3ЙQQQQQQQSVW‰Uь‹ш‹Eьи    3АUhg  dя0d‰ ІЎ    и    ‹рєЂ  ‹Жи    і‹Uь‹Жи    ‹Жи    „Аt=ЌMш3ТЉУ‹Жи    ‹Uш‹Зи    лЌMф3ТЉУ‹Жи    ‹Uф‹Зи    ‹Жи    „АuЭєЁ  ‹Жи    ‹Жи    „АtЌMр3ТЉУ‹Жи    ‹Uр‹Зи    єД  ‹Жи    ‹Жи    „АtnЌMм3ТЉУ‹Жи    ‹Uм‹Жи    єа  ‹Жи    3Ы‹Жи    „Аt=ЌMи3ТЉУ‹Жи    ‹Uи‹Зи    лЌMд3ТЉУ‹Жи    ‹Uд‹Зи    ‹Жи    „АuЭ3АZYYd‰hn  ЌEдє   и    Гй    лл_^[‹е]Г   яяяя   (\w+)\s*[^\\\+\*\-\%\=]=[^=]    яяяя   for\s+(\w+)\s+in    яяяя   \sdef\s+\w+\((.*)\) яяяя   \w+ U‹мѓДшSV‹Щ‰Uь‹р‹Eьи    3АUhy   dя0d‰ ѓ> t9‹‰Eшл	‹Eш‹@‰Eшѓ}ш t‹Eь‹Uш‹и    uвѓ}ш t‹Eш:Xv‹Eш€X3АZYYd‰hЂ   ЌEьи    Гй    лр^[YY]ГU‹мѓДшSV‹Щ‰Uь‹р‹Eьи    3АUhq   dя0d‰ ѓ> t1‹‰Eшл	‹Eш‹@‰Eшѓ}ш t‹Eь‹Uш‹и    uвѓ}ш t‹Eш€X3АZYYd‰hx   ЌEьи    Гй    лр^[YY]ГU‹мj j SV‹Ъ‹р3АUh™   dя0d‰ ‹и    „АtX‹EЖ@яЌMь‹E3ТЉPя‹и    ‹Uь‹E‹@ш‹Ли    л"ЌMш‹E3ТЉPя‹и    ‹Uш‹E‹@ш‹Ли    ‹и    „АuУ3АZYYd‰h    ЌEшє   и    Гй    лл^[YY]ГU‹мѓДаS3Й‰Mа‰Mд‰Mи‰Mм‰Uф‰Eш‹Eфи    Ќ]р3АUh©  dя0d‰ ІЎ    и    ‰єА  ‹и    ЖEя‹Uф‹и    ‹и    „Аtє$  ‹и    U‹ГІи    Yл.єD  ‹и    U‹ГІи    Yєp  ‹и    U‹ГІи    Yєђ  ‹и    ‹и    „АtQЌMм3ТЉUя‹и    ‹Uм‹Eш±и    є¬  ‹и    лЌMи3ТЉUя‹и    ‹Uи‹Eш±и    ‹и    „АuЩєИ  ‹и    ЖEя‹и    „АtUЌMд3ТЉUя‹и    ‹Uд‹Eш±и    є¬  ‹и    ЖEялЌMа3ТЉUя‹и    ‹Uа‹Eш±и    ‹и    „АuЩ3АZYYd‰h°  ЌEає   и    ЌEфи    Гй    лг[‹е]Г   яяяяY   (\w+)(\[\w+\])*\s*=\s*(.*\()*((input|open)\(.*\)+\s*|\w+\.(read|readline)\([0-9]*\)+\s*)$   яяяя   (\w+)(\[\w+\])*\s*=[^=] яяяя    (\w+)(\[\w+\])*\s*[\-\+\\\%\*]*=    яяяя   (\w+)(\[\w+\])*\.\w+    яяяя   for\s+(\w+)\s+in\s  яяяя   \s*(\w+)(\[.*\])*   яяяя   (while|if|elif)[\(\-\+\s]+(\w+) U‹мj j j j S‰Eь3АUhщ   dя0d‰ ‹E‹@ьи    „А„®   ‹EЖ@ыЌMш‹E3ТЉPы‹E‹@ьи    ЌEшє  и    ‹Uш‹E‹@ьи    ‹E‹@ьє  и    ‹E‹@ьи    „АtWЌMф‹E3ТЉPы‹E‹@ьи    ‹UфЌEь±и    л#ЌMр‹E3ТЉPы‹E‹@ьи    ‹UрЌEь±и    ‹E‹@ьи    „АuО3АZYYd‰h   ЌEрє   и    Гй    лл[‹е]Г   яяяя       яяяя   (\w+)\.?\,?(\[.*\])*[^(]    U‹м3ЙQQQQQQQQSV‰Uф‹Ш‹Eфи    Ќuь3АUh@  dя0d‰ ЖEыІЎ    и    ‰єX  ‹и    ‹Uф‹и    ‹и    „Аt_ЌMр3ТЉUы‹и    єЂ  ‹и    л7ЌMм3ТЉUы‹и    ‹Eм‹Uри    tЌMи3ТЉUы‹и    ‹Uи‹Г±и    ‹и    „Аuѕ‹Uф‹и    є¤  ‹и    UЌMд3ТЉUы‹и    ‹Uд‹±и    Y‹Uф‹и    єё  ‹и    UЌMа3ТЉUы‹и    ‹Uа‹±и    Y3АZYYd‰hG  ЌEає   и    Гй    лл^[‹е]Г   яяяя   (\w+)\s*[\\\-\+\*\%]?=[\s\w]    яяяя   (\w+)\.?\,?(\[.*\])*[^(]    яяяя   \w+\((.*)\) яяяя   \sreturn\s(.*)  Q‹Ф‹ ‰ѓ: t"‹Ђx u‹Ђxt‹Ж@‹‹@‰ѓ: uЮZГSѓДрЌ\$‹ ‰ѓ; tr‹‰D$‹Љ@юИtюИtюИt$юИt/л:Э$ШЊ   Э$›л+Э$Шђ   Э$›лЭ$Ш”   Э$›л
-Э$Ш   Э$›‹‹@‰‹    ‹D$и    ѓ; uЋЭ$ѓД[Г   Ђ?   @  @@   ?U‹м3АUh%   dя0d‰ я    3АZYYd‰h,   Гй    лш]Гѓ-    Гmх F F&N Nd6NX X N&F"$^F",$FX`0`2
-4`68:$<X <X>`6:$<X
-`6:$<8
-`6:$<X <X>"`&шj&j\Fjt&t\6t~"~::< j(< j>"~&„>„2
-4„68:„6~„6~„6~„6:&<j
-„6"<j>„6:&<j
-„6*<j>"„&щ”&”":J<”
-(8”
-6:4<t0<t>"”&|њ0њ"2
-4њ68:&<
-њ6"<"<t>8
-њ6 <”8
-њ6 <”њ&Ё`ІfІІІІ"F,DДДHДHђQ@6D
-<B
-D$
-$ю0J
-T4ю0004ю0
-ZмJ
-ю*F
-J
-ю*R6HюDZh8ю88ю8jб:&b JюFbpZ8ь6
-:~
-,ъ
-
-
-.м€ ‘Щ ’  “†ђ  D  
-F  F F F F ` ћ„ Mњ iЁ  -І "mN  <P  <R  <T  >V  >X  \Z  \\  \^  `b  ћd  ћf   h  ўj  иl  иn  иp  иr  кt  
-v  
-x  
-z  
-|  †  M€  MЉ  QЊ  UЋ  Yђ  ]’  a~  mЂ  m‚  mћ  i   iў  m¤  q¦  u”  Ѓ–  Ѓ  Ѓљ  ЃЄ  -¬  1®  5°  9ґ  m¶  qё  qє  uј  yѕ  }А  ЃВ  ЃД  Х”tN` 2PDPNюPVPdюX@ 2ZDZвю` 8 p2bT
-fphЊhЩюhf№юh№юb№юj` 02lJpJlbюpюt` 02vJzJvbюzрю~` 0Ђ6‚6ЂЃю‚Ѓю„ @ 6”   6њ@@ 06ћZћюЁ@   Є ЄюІ@   ґ ґюД         a
