@@ -288,5 +288,4 @@ begin
   ResultForm.Res.Clear;
   AnalyseCode('main',0,Code.Lines.Count-1);
 end;
-
 end.
