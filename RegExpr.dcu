@@ -1,836 +1,0 @@
-Я  -Ч  V=GЃ^с – <pRegExpr.pasbZ+0 dSysUtilsыбАў    f	ExceptionЇќ|,g
-.Exception–+пgStrLCopy”FYgStrLen№*Ђ‘gStrScanЗл{!gStrLComp¶@ЛgFormatщХрщgIntToStri5ЋgException.CreateЎ`jPcdClassesыбАў    fTStringsы­e”cdSysInitыбАў    cdSystemыбАў    fPCharrugf
-AnsiStringФяЧfCharЬПifInteger¶Ё§
-gSizeOf    fBooleanW~8gFalseЇ№таgTrue°№таfStringФяЧfTObjectј„©_g.TObjectЈBgTObject.SafeCallExceptionЅG—ѓgTObject.AfterConstructionѕG—ѓgTObject.BeforeDestructionїG—ѓgTObject.DispatchАG—ѓgTObject.DefaultHandlerБG—ѓgTObject.NewInstanceВG—ѓgTObject.FreeInstanceГG—ѓgTObject.DestroyДG—ѓgTObject.Free­G—ѓg@HandleFinallyEуa‚gLength    g@LStrLen‹МgPos    g@LStrPosEуa‚gCopy    g	@LStrCopyEуa‚gInc    gMaxInt
-R6g@LStrClrСЁ}µg
-@LStrFromChar9%\g	@LStrCatNEуa‚g@LStrCatEуa‚g
-@LStrArrayClrzYњґgGetMem    g@GetMemгШюgDec    gFreeMem    g@FreeMemгШюgOrd    g@LStrAsgѓ4µgTObject.Create¬G—ѓg@ClassCreateЏ…вg@AfterConstructionЪї%Ug@BeforeDestructionЗdЁњg
-@ClassDestroyЬOg@LStrFromPCharVPDTg@LStrCmpEуa‚g@LStrToPCharfсРХgAssigned    g	SetString    g@LStrFromPCharLenџ}ОgDelete    g@LStrDeleteEуa‚g	@LStrCat3Eуa‚gExit    gInclude    gBreak    fCardinalцЯ"—g@TryFinallyExitEуa‚gAssert    g@AssertІW5gMove,QІg@SetSubEуa‚gContinue    f	PAnsiCharruggSucc    g	@SetUnionEуa‚g@SetElemEуa‚g@PStrCpy…‰Ѓ(g	@PStrNCatEуa‚g@LStrFromStringhк
-fPointerчЈg@LStrAddRefціjg@RaiseExceptEуa‚ceWindowsыбАў    g	CharUpperЙЈg	CharLowerЙЈc4RegExprЂiif@c4Classes c4SysUtils c*PRegExprCharЂrug*
-RegExprStringЂФяЧ*RECharЂЬПi
-*TREOpЂЬПi
-*PREOp€Тd‘љ*
-TRENextOffЂ¶Ё§
-*
-PRENextOff€·xp]*TREBracesArgЂ¶Ё§
-*PREBracesArg€·Одu%REOpSzЉжњаЭ   %RENextOffSzЉйњаЭ   %
-REBracesArgSzЉйњаЭ   *TRegExprInvertCaseFunction€mџ…4"%EscCharЉrчp$  q'RegExprModifierIв}б¶Mr'RegExprModifierRв}б¶Mt'RegExprModifierSв}б¶Mv'RegExprModifierGв}б¶Mx'RegExprModifierMв}б¶Mz'RegExprModifierXв}б¶M|'RegExprSpaceCharsвҐҐ8н~(    'RegExprWordCharsвҐҐ8нM(   ђ'RegExprLineSeparatorsвҐҐ8н}(   'RegExprLinePairedSeparatorвҐҐ8нЅ(   %NSUBEXPЉфњаЭ   %
-NSUBEXPMAXЉd©аЭ&  э%MaxBracesArgЉf‘аЭ(  юяя%LoopStackMaxЉпњаЭ   %
-TinySetLenЉињаЭ   *PSetOfREChar€&8яф**TSetOfREChar€ЂёОє,*TRegExprReplaceFunction€юAЛ”.&	.TRegExprЂЈ=sщ0 *TRegExpr€јЇ 2&	.ERegExprЂЂЃЂЫ4 *ERegExpr€™у
-щ6'RegExprInvertCaseFunctionд“pѕI"Б .3f8 4Windows ¶c'TRegExprVersionMajorbб'TRegExprVersionMinorbс%MaskModI
-   %MaskModR
-   %MaskModS
-   %MaskModG
-   %MaskModM
-    %MaskModX
-   @%
-XIgnoredChars
-:&  (ExecRegExprЂВНі М!ARegExpr!	AInputStr Resultfю rf2рc(SplitRegExprЂ*
-Ч Ф <!ARegExpr!	AInputStr
-!APieces rf2шc(ReplaceRegExprЂѕp“Љ Ъ!ARegExpr!	AInputStr!AReplaceStr
-!AUseSubstitution&%.
->   #Result& .f2шљ‘Ќcj'RegExprMetaSetB (   0k(QuoteRegExprMetaCharsЂxЭ„ б!AStr#Resultfш i i0
- Lenfрc(RegExprSubExpressionsЂУ›э Ґ!ARegExpr!	ASubExprsfш!AExtendedSyntaxfц%.
->    Resultfи*
-TStackItemRec @*TStackArray B Lenfа 
-SubExprLenfШ i i0fР ModiffИ StackfDА StackIdxfё StackSz .fF° .fFЁљНЙc%MAGIC
-
-  a%EEND
-
-   %BOL
-
-  %EOL
-
-  %ANY
-
-  %ANYOF
-
-  %ANYBUT
-
-  
-%BRANCH
-
-  %BACK
-
-  %EXACTLY
-
-  %NOTHING
-
-  %STAR
-
-  %PLUS
-
-  %ANYDIGIT
-
-  %NOTDIGIT
-
-  %	ANYLETTER
-
-  %	NOTLETTER
-
-  %ANYSPACE
-
-   %NOTSPACE
-
-  "%BRACES
-
-  $%COMMENT
-
-  &%	EXACTLYCI
-
-  (%ANYOFCI
-
-  *%ANYBUTCI
-
-  ,%	LOOPENTRY
-
-  .%LOOP
-
-  0%ANYOFTINYSET
-
-  2%
-ANYBUTTINYSET
-
-  4%ANYOFFULLSET
-
-  6%BSUBEXP
-
-  8%	BSUBEXPCI
-
-  :%STARNG
-
-  <%PLUSNG
-
-  >%BRACESNG
-
-  @%LOOPNG
-
-  B%BOLML
-
-  D%EOLML
-
-  F%ANYML
-
-  H%BOUND
-
-  J%NOTBOUND
-
-  L%OPEN
-
-  N%CLOSE
-
-  l%reeOk
-    %reeCompNullArgument
-   ‘%reeCompRegexpTooBig
-   •%reeCompParseRegTooManyBrackets
-   ™% reeCompParseRegUnmatchedBrackets
-   ќ%!reeCompParseRegUnmatchedBrackets2
-   Ў%reeCompParseRegJunkOnEnd
-   Ґ%reePlusStarOperandCouldBeEmpty
-   ©%reeNestedSQP
-   ­%reeBadHexDigit
-   ±%reeInvalidRange
-   µ%reeParseAtomTrailingBackSlash
-   №%reeNoHexCodeAfterBSlashX
-   Ѕ%reeHexCodeAfterBSlashXTooBig
-   Б%reeUnmatchedSqBrackets
-   Е%reeInternalUrp
-   Й%reeQPSBFollowsNothing
-   Н%reeTrailingBackSlash
-   С%reeRarseAtomInternalDisaster
-   Э%reeBRACESArgTooBig
-   й%reeBracesMinParamGreaterMax
-   с%reeUnclosedComment
-   х%reeComplexBracesNotImplemented
-   щ%reeUrecognizedModifier
-   э%reeBadLinePairedSeparator
-&  %!reeRegRepeatCalledInappropriately
-H  Ў%reeMatchPrimMemoryCorruption
-H  Ґ%reeMatchPrimCorruptedPointers
-H  ©%reeNoExpression
-H  ­%reeCorruptedProgram
-H  ±%reeNoInpitStringSpecified
-H  µ%reeOffsetMustBeGreaterThen0
-H  №%reeExecNextWithoutExec
-H  Ѕ%#reeGetInputStringWithoutInputString
-H  Б%reeDumpCorruptedOpcode
-H  Н%reeModifierUnsupported
-H  Х%reeLoopStackExceeded
-H  Щ%reeLoopWithoutEntry
-H  Э%reeBadPCodeImported
-H  A(TRegExpr.ErrorMsgЂsо: -!Self2 !AErrorID#Resultc(TRegExpr.LastErrorЂ
-sо: "!Self2  Resultc(TRegExpr.VersionMajorЂфrо: !Self0  Result c(TRegExpr.VersionMinorЂхrо: !Self0  Result c(TRegExpr.CreateЂтrо: 9<!Self2!.>c(TRegExpr.DestroyЂуrо: Њ<!Self2!.>c(TRegExpr.InvertCaseFunctionЂsо: >
-!Self0 !Ch
- Result
- c(TRegExpr.GetExpressionЂРrо: N!Self2#Resultc(TRegExpr.SetExpressionЂСrо: Щ<!Self2!s Len
-c(TRegExpr.GetSubExprMatchCountЂйrо: X!Self2  Resultc(TRegExpr.GetMatchPosЂкrо: d!Self2 !Idx Result c(TRegExpr.GetMatchLenЂлrо: ^!Self2 !Idx Result c(TRegExpr.GetMatchЂмrо: €!Self2 !Idx#Resultc(TRegExpr.GetModifierStrЂТrо: a!Self2#Resultc(TRegExpr.ParseModifiersStrЂУrо: ‘!Self0 !
-AModifiers
-"
-AModifiersIntfш Resultfц i IsOnfф Maskfиc(TRegExpr.SetModifierStrЂФrо: N<!Self2!
-AModifiersc(TRegExpr.GetModifierЂХrо: ж!Self2!AIndex Result Mask c(TRegExpr.SetModifierЂЦrо: р<!Self2!AIndex!ASet Mask c(TRegExpr.InvalidateProgrammЂОrо: 8<!Self2c(TRegExpr.CompileЂsо: ><!Self2 c(TRegExpr.IsProgrammOkЂПrо: С!Self2 Result i
-c(
-TRegExpr.TailЂЩrо: Є<!Self2!p!val scanf  tempfc(TRegExpr.OpTailЂЪrо: <<!Self2 !p!valc(TRegExpr.EmitNodeЂЫrо: „!Self2 !op
- Resultf c(TRegExpr.EmitCЂЬrо: F<!Self2 !b
-c(TRegExpr.InsertOperatorЂЭrо: ф<!Self2 !op
-!opnd!sz srcfш dstfр placefи i c(strcspn  p!s1 !s2 Result scan1f  scan2fc%HASWIDTH
-   %SIMPLE
-   %SPSTART
-   %WORST
-    'METAbJэs%
-RusRangeLo
-Tяяяя!   абвгдеёжзийклмнопрстуфхцчшщъыьэюя %
-RusRangeHi
-Tяяяя!   АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ %
-RusRangeLoLow
-$  Ѓ%RusRangeLoHigh
-$  э%
-RusRangeHiLow
-$  %RusRangeHiHigh
-$  }(TRegExpr.CompileRegExprЂШrо: Q!Selff2ш!exp Resultfц scanfи longestfа len flagsfШc(TRegExpr.ParseRegЂЮrо: m!Self2!paren"flagp Resultf  retf brf enderf parnof  flagsf( SavedModifiersf0c(TRegExpr.ParseBranchЂЯrо: ­!Self2"flagp
- Resultf  retf chainf latestf flagsf cj(parsenum ј!AStart !AEnd Resultc(EmitComplexBraces Щ <!
-ABracesMinfш!
-ABracesMaxfр!ANonGreedyOp offc(EmitSimpleBraces в <!
-ABracesMin!
-ABracesMax!ANonGreedyOpck(TRegExpr.ParsePieceЂаrо: !Selff2ш"flagp Resultfа op
-  NonGreedyOp NonGreedyCh TheOpf
-о NextNodefр flagsfШ 	BracesMin
- 	Bracesmax  pfР 
-savedparsefИcj(EmitExactly а <!ch
-c(EmitStr d <!s
- ic(HexDig ђ!ch
-  Resultc(	EmitRange !AOpCode
- Resultfшc(EmitRangeCPrim ’ <!b
-c(
-EmitRangeC  <!b
- Ch
- c(EmitSimpleRangeC 8 <!b
- c(EmitRangeStr b <!s
- ic(UnQuoteChar 5
-"APtr Result
-ck(TRegExpr.ParseAtomЂбrо: с)!Selff2р"flagpfи Resultfсю retfш flagsfбю RangeBegf
-Ђ RangeEnd
- 
-CanBeRangef‚ len ender
-  begmodfsfСю 
-RangePCodeBegfа 
-RangePCodeIdxfР 	RangeIsCIfЮ RangeSetf,€ RangeLenfИ 
-RangeChMinf
-† 
-RangeChMaxf
-„c(TRegExpr.GetCompilerErrorPosЂвrо: @!Self2  Resultc(TRegExpr.regrepeatЂдrо: й!Self2!pf !AMaxf Result
- scanf opndf TheMax InvChf
-  sestartf( seendf0c(TRegExpr.regnextЂеrо: V!Self2 !p Resultf  offset c(TRegExpr.MatchPrimЂжrо: =/!Self2!prog Resultfю scanfр nextfи len opndfа no
- savefШ nextchf
-Ц 	BracesMinfИ 	BracesMaxfА SavedLoopStackfLСю SavedLoopStackIdxfёc(TRegExpr.FillFirstCharSetЂгrо: !<!Self2!prog scanf  nextf opndf min_cntc(
-TRegExpr.ExecЂюrо: 0@!Self2!AInputString Result c(
-TRegExpr.ExecЂяrо: @!Self2  Result c(
-TRegExpr.ExecЂ sо: @!Self2 !AOffset Result c(TRegExpr.ExecPosЂsо: !Self2 !AOffset%.
-   Result љ‰…cj(ClearMatchs J < i c(RegMatch ћ!str Result ck(TRegExpr.ExecPrimЂзrо: ­!Selff2ш!AOffset
- Result sfр StartPtrfи InputLenfаc(TRegExpr.ExecNextЂsо: ~!Self2 Result offsetc(TRegExpr.GetInputStringЂнrо: Z!Self2#Resultc(TRegExpr.SetInputStringЂоrо: х<!Self2!AInputString
- Len i c(TRegExpr.SetLineSeparatorsЂпrо: X<!Self2!AStrc(TRegExpr.SetLinePairedSeparatorЂрrо: a<!Self2!AStrc(TRegExpr.GetLinePairedSeparatorЂсrо: И!Self2#Resultcj(ParseVarName m"APtr Result%Digits
-Nя pfш 	Delimited ck(TRegExpr.SubstituteЂsо: 
-!Self2
-!	ATemplate#Resultfр TemplateLen  TemplateBegfи TemplateEndfш pfа p0fШ 	ResultPtrfР 	ResultLenfИ n Ch
-c(TRegExpr.SplitЂsо: Y<!Self2!	AInputStrfш!APiecesfр PrevPosc(TRegExpr.ReplaceЂsо: )@!Self2!	AInputStrfш!AReplaceStrbр!AUseSubstitution&%.
->   #Result PrevPos
-љ‰	…	c(TRegExpr.ReplaceExЂsо: й!Self2!	AInputStrfш!AReplaceFunc$.#Resultfр PrevPosc(TRegExpr.ReplaceЂsо: Ж@!Self2!	AInputStrfш!AReplaceFunc$.#Resultc(TRegExpr.DumpOpЂиrо: б!Self2 !op
-#Resultc(
-TRegExpr.DumpЂsо: a!Self2
-#Result sfш op
- nextfр ifи Difffа Chf
-Юcj(
-ReturnAddr   Result ck(TRegExpr.ErrorЂЧrо: С<!Self2!AErrorID e6
-c(FinalizationЂEуa‚ Д! <cћ(RegExprЂ     !<cћюE К
-E ОE ТD  8 эяHrЪ$
-j!Ch
- cB  $ эюD  8 эюD  8 яяярE 	,J.@
- 
-H	$j!ARegExpr2 cG  2юFD Aю  ,startp P,endp R,	LoopStack Tс,LoopStackIdx ‘,regstart 
-Ў,reganch 
-Ґ,regmust ±,regmlen Б,FirstCharSet ,С,reginput Q,fInputStart a,	fInputEnd q,regparse Ѓ,regnpar ‘,regdummy 
-Ў,regcode ±,regsize Б,	regexpbeg С,fExprIsCompiled б,programm с,fExpression ,fInputString ,
-fLastError !,
-fModifiers 1,fCompModifiers A,fProgModifiers Q,fSpaceChars a,
-fWordChars q,fInvertCase "Ѓ,fLineSeparators Ў,fLinePairedSeparatorAssigned ±,fLinePairedSeparatorHead 
-µ,fLinePairedSeparatorTail 
-№,fLineSeparatorsSet VЅ-InvalidateProgramm о]-IsProgrammOk оm-
-GetExpression оҐ-
-SetExpression о±-GetModifierStr оэ-ParseModifiersStrо	-SetModifierStr о)-GetModifier о5-SetModifier оI-ErrorЂ э	-CompileRegExpr о)-Tail о}-OpTail о•-EmitNode оҐ-EmitC оµ-InsertOperator оБ-ParseReg оI-ParseBranch оu-
-ParsePiece оЙ-	ParseAtom оa-GetCompilerErrorPos о­-FillFirstCharSet о5-	regrepeat о№-regnext ое-	MatchPrim ощ-ExecPrim оҐ-DumpOp оБ	-GetSubExprMatchCount оБ-GetMatchPos оН-GetMatchLen оЭ-GetMatch он-GetInputString оС-SetInputString оЭ-SetLineSeparators ос-SetLinePairedSeparator оэ-GetLinePairedSeparator о		.Createо}/DestroyДю‰-VersionMajorоe-VersionMinorоq0
-Expressionю   ЂҐ±    Ђ0ModifierStrю   Ђэ)    Ђ0	ModifierIю5I    Ђ0	ModifierRю5I    Ђ0	ModifierSю5I    Ђ0	ModifierGю5I    Ђ0	ModifierMю
-5I    Ђ0	ModifierXю5I    Ђ-ExecоQ@-Execоa@-Execоm@-ExecNextоБ-ExecPosо}0InputStringю   ЂСЭ    Ђ-
-Substituteо-	-Splitоa	-Replaceоu	@-Replaceо­	@-	ReplaceExо•	0SubExprMatchCountю   ЂБ     Ђ0MatchPosXю   ЂН     Ђ0MatchLenZю   ЂЭ     Ђ0Match\ю   Ђн     Ђ-	LastErrorоY-ErrorMsg„I0CompilerErrorPosю   Ђ­     Ђ0
-SpaceCharsю   ЂЃ
-Ѓ
-    Ђ0	WordCharsю   Ђ…
-…
-    Ђ0LineSeparatorsю   ЂЌ
-с    Ђ0LinePairedSeparatorю   Ђ		э    Ђ-InvertCaseFunctionо•0
-InvertCase"ю   Ђ‰
-‰
-    Ђ-Compileоe-DumpоС	cG  6ЄFD! ( ю  ,	ErrorCode,CompilerErrorPos cD  8   ЂяяяPJ  $@   A  > яM Х,
-SubExprIdx ,StartPoscL бЩ ^@E  BE  <D  8 ыяьL   `
-L P bJ  $L x dL x fL P hJ @  
-H    j!Idx cH    j!Idx cH    j!Idx cD  8 щюD  8 яD  8яD  8 яD  8 яD  8яl.   TRegExprInvertCaseFunctionChCharChar               яяяя    	
-
-      яяяя?   0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_    яяяя   
-     яяяя   
-     TSetOfREChar       TRegExprReplaceFunctionARegExprTRegExprString         L           T                   v   P                                                                      (  TRegExpr   TRegExprL         RegExpr  L                               L                                          ERegExpr   ERegExprL         RegExpr              ё  U‹мѓДшSV‹т‹ШІЎ    и    ‰Eш3АUhV   dя0d‰ ‹У‹Eши    ‹Ц‹Eши    €Eя3АZYYd‰h]   ‹Eши    Гй    лрЉEя^[YY]ГU‹мQSVW‹Щ‹ъ‹р‹Г‹яRDІЎ    и    ‰Eь3АUh]   dя0d‰ ‹Ц‹Eьи    ‹Л‹Ч‹Eьи    3АZYYd‰hd   ‹Eьи    Гй    лр_^[Y]ГU‹мQSVW‹щ‹т‹ШІЎ    и    ‰Eь3АUh^   dя0d‰ ‹У‹Eьи    ЉEP‹EP‹П‹Ц‹Eьи    3АZYYd‰he   ‹Eьи    Гй    лр_^[Y]В    яяяя   ^$.[()|?+*\{]}  U‹м3ЙQQQQQQSVW‰Uь‹р3АUhЫ   dя0d‰ ‹Eьи    ‹Жи    ‰Eш»   ‹ы;]шaЌEфЉTяи    ‹Eф‹    и    …А~=‹Eья0ЌEрP‹Л+П‹Ч‹Жи    яuрhф   ЌEмЉTяи    яuм‹Eьє   и    Ќ{C;]ш~џЌEиP№яяя‹Ч‹Жи    ‹Uи‹Eьи    ‹Eь3АZYYd‰hв   ЌEиє   и    Гй    лл_^[‹е]Г   яяяя   \   U‹мѓДМSVW3Ы‰]М‰]Р€Mы‰Uь‹р3АUhШ  dя0d‰ 3А‰Eф‹Eь‹яRD‹Жи    ‰Eрє   ‹Eр…А~»   Ђ|я(uBCHuф‹ВБаи    ‰Eа3АUh¶  dя0d‰ 3А‰EЬ»   ;]рЏї  3АЉDяѓш)„В   ѓи#„h  ѓиtй‘  ѓи[„  H„
-  й|  ;]р}cЂ<?u]ѓГ‰]илC;]рЂ|я)uу;]р~ЗEфяяяяйK  ЌEРP‹Л+Mи‹У‹Жи    ‹UРЌMдЎ    и    „А„!  цEд •Eый  3Т‹Eь‹яQ8‹Eа‹UЬЌР‰EШ‹Eь‹яRH‹UШ‰‹EШ‰XяEЬйв   ѓ}Ь u‰]фйФ   яMЬ‹Eа‹UЬЌР‰EФ‹EФ‹У+PB‰Uм‹EФ‹H‹EмБаИ‹EФ‹‹Eь‹8яW$ЌEМP‹Mмѓй‹EФ‹PB‹Жи    ‹MМ‹EФ‹‹Eь‹8яW лtCлq‰]иCЂ|я]uCл
-Ђ|я\uѓГлC;]рЂ|я]uз;]рЂ|я]t>‹Eи@чШ‰Eфл3Ђ}ы t-лC;]рЂ|я
-t
-Ђ|я
-uмлCЌC;EрЂ<
-tсЂ<
-tлC;]рЋAюяяѓ}Ь tЗEфяяяя‹Eь‹яR…Аt)3Т‹Eь‹яQ%яя  Hu3Т‹Eь‹яQБи%яя  ;Eрt‹EрБаѓИP‹О3Т‹Eь‹яSd3АZYYd‰hЅ  ‹Eаи    Гй    лр3АZYYd‰hЯ  ЌEМє   и    Гй    лл‹Eф_^[‹е]ГS‹ЩѓъzЏЈ   „d  ѓъlY„Н  ѓъg+„|  ѓк‚;  ѓкc„@  J„G  J„N  й3  ѓкh„\  J„c  J„j  J„q  й  ѓВ“ѓъ
-‡  я$•ѓ   ш      "  0  >  L  Z  Ђ  Ђ  h  Ѓъм  ]„E  ЃъЂ   )„с  ѓк|„°  J„·  J„ѕ  J„Е  й’  Ѓки  „Р  J„Ч  J„Ю  J„е  йl  Ѓъу  ,„&  Ѓкн  „в  J„й  J„р  J„ч  й8  Ѓкц  „  J„	  ЃкЩ  „  й  ‹Гє  и    [Г‹Гє¬  и    [Г‹ГєФ  и    [Г‹Гєь  и    [Г‹Гє,  и    [Г‹Гє,  и    [Г‹Гє\  и    [Г‹ГєЊ  и    [Г‹ГєА  и    [Г‹Гєд  и    [Г‹Гє  и    [Г‹Гє8  и    [Г‹Гєh  и    [Г‹Гє  и    [Г‹ГєР  и    [Г‹Гєш  и    [Г‹Гє   и    [Г‹ГєP  и    [Г‹Гєt  и    [Г‹ГєЁ  и    [Г‹ГєШ  и    [Г‹Гє  и    [Г‹ГєD  и    [Г‹Гєш  и    [Г‹Гє(  и    [Г‹ГєЊ  и    [Г‹ГєИ  и    [Г‹Гєь  и    [Г‹Гє4	  и    [Г‹Гєp	  и    [Г‹Гєњ	  и    [Г‹ГєР	  и    [Г‹Гє
-  и    [Г‹Гє<
-  и    [Г‹Гєx
-  и    [Г‹Гє¤
-  и    [Г‹ГєР
-  и    [Г‹Гє  и    [Г‹Гє0  и    [Г  яяяя	   No errors   яяяя   TRegExpr(comp): Null Argument   яяяя   TRegExpr(comp): Regexp Too Big  яяяя$   TRegExpr(comp): ParseReg Too Many ()    яяяя%   TRegExpr(comp): ParseReg Unmatched ()   яяяя$   TRegExpr(comp): ParseReg Junk On End    яяяя)   TRegExpr(comp): *+ Operand Could Be Empty   яяяя   TRegExpr(comp): Nested *?+  яяяя   TRegExpr(comp): Bad Hex Digit   яяяя    TRegExpr(comp): Invalid [] Range    яяяя%   TRegExpr(comp): Parse Atom Trailing \   яяяя$   TRegExpr(comp): No Hex Code After \x    яяяя,   TRegExpr(comp): Hex Code After \x Is Too Big    яяяя   TRegExpr(comp): Unmatched []    яяяя   TRegExpr(comp): Internal Urp    яяяя$   TRegExpr(comp): ?+*{ Follows Nothing    яяяя   TRegExpr(comp): Trailing \  яяяя+   TRegExpr(comp): RarseAtom Internal Disaster яяяя'   TRegExpr(comp): BRACES Argument Too Big яяяя0   TRegExpr(comp): BRACE Min Param Greater then Max    яяяя$   TRegExpr(comp): Unclosed (?#Comment)    яяяя©   TRegExpr(comp): If you want take part in beta-testing BRACES '{min,max}' and non-greedy ops '*?', '+?', '??' for complex cases - remove '.' from {.$DEFINE ComplexBraces}   яяяя$   TRegExpr(comp): Urecognized Modifier    яяяяX   TRegExpr(comp): LinePairedSeparator must countain two different chars or no chars at all    яяяя0   TRegExpr(exec): RegRepeat Called Inappropriately    яяяя+   TRegExpr(exec): MatchPrim Memory Corruption яяяя,   TRegExpr(exec): MatchPrim Corrupted Pointers    яяяя0   TRegExpr(exec): Not Assigned Expression Property    яяяя!   TRegExpr(exec): Corrupted Program   яяяя)   TRegExpr(exec): No Input String Specified   яяяя-   TRegExpr(exec): Offset Must Be Greater Then 0   яяяя*   TRegExpr(exec): ExecNext Without Exec[Pos]  яяяя2   TRegExpr(exec): GetInputString Without InputString  яяяя    TRegExpr(dump): Corrupted Opcode    яяяя#   TRegExpr(exec): Loop Stack Exceeded яяяя(   TRegExpr(exec): Loop Without LoopEntry !    яяяя#   TRegExpr(misc): Bad p-code imported яяяя
-   Unknown error   ‹ђ  3Й‰€  ‹ВГЎ    ГЎ    ГSV„ТtѓДри    ‹Ъ‹р3Т‹Жи    3А‰†ь   3А‰†   3А‰†  3А‰†ф   Ж†ш    Љ
-    є   ‹Жи    Љ
-    є   ‹Жи    Љ
-    є   ‹Жи    Љ
-    є   ‹Жи    Љ
-    є   ‹Жи    Ќ†  ‹    и    Ќ†  ‹    и    ‹    ‰†   ‹   ‰†$  Ќ†(  ‹    и    ‹    ‹Жи    ‹Ж„Ыtи    dЏ    ѓД‹Ж^[ГSVи    ‹Ъ‹р‹†ь   …Аtи    ‹†   …Аtи    ‹†  …Аtи    „Ы~‹Жи    ^[ГSV‹Ъ‹уЃжя   Vи    :ШuVи    ^[ГSVW‹т‹Ш‹»   …яt‹Ж‹Чи    л‹Жи    _^[ГU‹мj SVW‹т‹Ш3АUh©   dя0d‰ ЌEь‹“   и    ‹Uь‹Жи    u	Ђ»ш    uVЖѓш    ‹ѓ   …Аt
-и    3А‰ѓ   …цt4‹Жи    ‹шЌGи    ‰ѓ   ‹Жи    ‹Р‹П‹ѓ   и    ‹Ги    3АZYYd‰h°   ЌEьи    Гй    лр_^[Y]Гѓё   tє   лJ…Т~ѓ|ђ tфѓ|ђ@ tн‹ВГѓКя‹ВГ…Т|*ѓъ}%ѓё   tѓ|ђ tѓ|ђ@ t‹Tђ+ђ  B‹ВГѓИяГ…Т|'ѓъ}"ѓё   tѓ|ђ tѓ|ђ@ t‹Lђ@+Lђ‹БГѓИяГSV‹Щ…Т|2ѓъ}-ѓё   t$ѓ|ђ tѓ|ђ@ t‹Lђ@‹tђ+О‹Ц‹Ги    ^[Г‹Ги    ^[ГSV‹Ъ‹р‹ГєL  и    є   ‹Жи    „Аt‹‹ГєX  и    л‹ГєX  и    є   ‹Жи    „Аt‹‹Гєd  и    л‹Гєd  и    є   ‹Жи    „Аt‹‹Гєp  и    л‹Гєp  и    є   ‹Жи    „Аt‹‹Гє|  и    л‹Гє|  и    є   ‹Жи    „Аt‹‹Гє€  и    л‹Гє€  и    є   ‹Жи    „Аt‹‹Гє”  и    л‹Гє”  и    ‹и    ‹Ђ|я-u‹и    ‹Р‹Г№   и    ^[Г  яяяя   -   яяяя   i   яяяя   r   яяяя   s   яяяя   g   яяяя   m   яяяя   x   U‹мQ№   j j Iuщ‡MьSVW‰Mь‹ъ3АUh‰  dя0d‰ ЖEыЖEъ3А‰Eф‹Зи    ‹р…цЋ'  »   Ђ|я-u	ЖEъ й
-  ЌEрЉTяи    ‹Eрє¤  и    …А~ЗEф   йЗ   ЌEмЉTяи    ‹Eмє°  и    …А~ЗEф   йћ   ЌEиЉTяи    ‹Eиєј  и    …А~	ЗEф   лxЌEдЉTяи    ‹EдєИ  и    …А~	ЗEф   лRЌEаЉTяи    ‹EаєФ  и    …А~	ЗEф   л,ЌEЬЉTяи    ‹EЬєа  и    …А~	ЗEф    лЖEы л"Ђ}ъ t
-‹Eь‹Uф	л
-‹EфчР‹Uь!CN…Ююяя3АZYYd‰hђ  ЌEЬє   и    Гй    ллЉEы_^[‹е]Г  яяяя   iI  яяяя   rR  яяяя   sS  яяяя   gG  яяяя   mM  яяяя   xX  SV‹т‹ШЌ‹  ‹Ц‹и    „Аuєх  ‹Г‹я^[ГSV‹р3ЫѓъwMя$•   X   .   5   <   C   J   Q   ё   л0ё   л)ё   л"ё   лё   лё    л
-єх  ‹Ж‹ял	…†  •Г‹Г^[ГV‹рѓъwMя$•   U   +   2   9   @   G   N   ё   л0ё   л)ё   л"ё   лё   лё    л
-єх  ‹Ж‹я^Г„Йt	†  лчР!†  ^ГS‹Ш‹ѓь   …Аt
-и    3А‰ѓь   [Гѓё    u
-єл  ‹яГ‹ђ   и    ГSVWU‹и3Ы‹…  ;…  t‹Еи    ѕ”   ЌЅ/  №   уҐ‹…(  и    ‹р…ц~ї   ‹…(  ЉD8я%я   «…/  GNuжѓЅь    u‹Еи    ‹…ь   …АtЂ8Шt
-єм  ‹Е‹ялі‹Г]_^[Г                                SVWUѓДш‹с‹Ш‹ьЌl$Ќѓи   ;Рt3‰‹‹Ги    ‰E ѓ}  t‹E ‰лз;7s
-‹+ЖчШ‹B‰л+7‹@‰0YZ]_^[ГS…ТtЌи   ;Уt
-Ђ:uѓВи    [ГQ‹€м   ‰$Ќ€и   ;$t!‹€м   €яЂм   ‹ђм   3Й‰
-ѓЂм   лѓЂр   ‹$ZГSЌи   ‹€м   ;Щt
-€яЂм   [ГяЂр   [ГU‹мѓДфSV‹uЌи   ;м   u°р   лQ‹м   ‰]ь°м   ‹Ђм   ‰Eш;MьsяMшяMь‹EьЉ ‹]ш€;Mьrл‰Mф‹Eф€яEф‹Жѓи|
-@‹UфЖ яEфHuф^[‹е]В SVWѓДшЌL$‹ь3ц‰л‰л‹:tя‹Љ „АuрFя‹Ђ8 uв‹ЖYZ_^[Г^$.[()|?+*\{ U‹мѓДмSVW‹Ъ‰EьЖEы ‹Eь3Т‰ђа   ‹Eь‰ф   3ТUhЎ  dя2d‰"‹Eь‹Ђь   …Аtи    ‹Eь3Т‰ђь   …Ыuєd   ‹Eь‹яи    й=  ‹Eь‹Ђ  ‹Uь‰‚  ‹Eь‹Ђ  ‹Uь‰‚  ‹Eь‰а   ‹EьЗЂд      ‹Eь3Т‰ђр   ‹Eьи   ‹Uь‰‚м   ІШ‹Eьи    ЌMм3Т‹Eьи    …Аu
-и    йВ  ‹Eь‹Ђр   и    ‹Uь‰‚ь   ‹Eь‹Ђ  ‹Uь‰‚  ‹Eь‰а   ‹EьЗЂд      ‹Eь‹Ђь   ‹Uь‰‚м   ІШ‹Eьи    ЌMм3Т‹Eьи    …Аu
-и    йL  ‹EьЌёґ   ѕґ  №   уҐ‹Eь‹ђь   B‹Eьи    ‹EьЖЂЁ    ‹EьЖЂ©    ‹Eь3Т‰ђ¬   ‹Eь3Т‰ђ°   ‹Eь‹Ђь   @‰Eф‹Uф‹Eьи    Ђ8 …њ   ‹Eф@ѓА‰Eф‹EфЉ <u‹Eф@ѓАЉ ‹Uь€‚Ё   л
-<u	‹EьюЂ©   цEмtb3А‰Eр3Ыѓ}ф t@‹EфЂ8u$‹Eф@ѓАи    ;Шw‹Eф@ѓА‰Eр‹Eри    ‹Ш‹Uф‹Eьи    ‰Eфѓ}ф uА‹Eь‹Uр‰ђ¬   ‹Eь‰°   ЖEы3АZYYd‰hЁ  Ђ}ы u‹Eьи    ‹Eь3Т‰ђф   ‹EьЉUы€ђш   Гй    лУЉEы_^[‹е]Г                                  SVWUѓДд‹с‹к‹ШЌ|$3А‰$З   3А‰D$‹ѓ  ‰D$…нt=ѓ»д   |єf   ‹Г‹яй‡  ‹ѓд   ‰D$яѓд   ЉT$ЂВ'‹Ги    ‰D$л3А‰D$ЌT$‹Ги    ‰ѓ? u
-3А‰$йA  ѓ|$ t‹‹T$‹Ги    л‹‰D$цD$uѓ&ю‹D$ѓа	лBяѓа   ЌT$‹Ги    ‰ѓ? u
-3А‰$йо   ‹‹T$‹Ги    цD$uѓ&ю‹D$ѓа	‹ѓа   Ђ8|tі…нtЉT$ЂВ6‹Ги    ‰D$л
-3Т‹Ги    ‰D$‹L$‹T$‹Ги    ‹D$‰ѓ? t‹L$‹‹Ги    ‹‹Ги    ‰ѓ? uг…нt‹ѓа   Ђ8)t
-єg   ‹Г‹ялKяѓа   …нu0‹ѓа   Ђ8 t%‹ѓа   Ђ8)u
-єh   ‹Г‹ялєi   ‹Г‹ял‹D$‰ѓ  ‹D$‰$‹$ѓД]_^[ГSVWUѓДм‹ъ‹рЌl$3А‰І‹Жи    ‰D$3А‰D$лKЌT$‹Жи    ‰E ѓ}  u3А‰$л]‹D$ѓа	ѓ|$ u‹D$ѓа	л‹M ‹T$‹Жи    ‹E ‰D$‹†а   Љ„Ыt
-Ђы|tЂы)uџѓ|$ u	І	‹Жи    ‹D$‰$‹$ѓД]_^[ГU‹мSV3ц‹К+ИAѓщ~‹E‹@ьєz   ‹ял6;Рr‹ОЙЌ‰3ЫЉѓл0Л‹с@;РsйЃююяя…ц}‹E‹@ьєz   ‹я‹Ж^[]ГU‹мѓДшS‰Uш‰Eь‹]ѓГь„Йt	‹EЖ@ч!л‹EЖ@чj‹E‹Hр‹Іи    ‹EЉPч‹и    ‹U‰Bш‹‹Ђм   ‹ЃВи   ;ВtK‹U‹RрBѓВ‹ИIѓй+С‹Mь‰‹ѓЂм   ‹‹Ђм   ‹Mш‰‹ѓЂм   ‹‹Ђм   ‰‹ѓЂм   л	‹ѓЂр   ‹E‹Hш‹E‹Pр‹и    ‹‹Ђм   ‹ЃВи   ;Вt‹E‹Hш‹E‹PрBѓВ‹и    [YY]ГU‹мSV‹т‹Ш„Йt	‹EЖ@ч л‹EЖ@чj
-‹E‹Hр‹EЉPч‹E‹@ьи    ‹E‹@ь‹Ђм   ‹U‹RьЃВи   ;Вt‹E‹@р@ѓА‰‹E‹@р@ѓАѓА‰0^[]ГU‹мѓДЬSVW3Й‰MЬ‰Mа‹Ъ‰EьЌuь3АUhЫ  dя0d‰ ЌUм‹и    ‰Eрѓ}р „‚  ‹‹Ђа   Љ <*t<+t<?t<{t
-‹Eм‰й^  цEмu<?tєj   ‹‹яйD  ,*tюИ„й   ,„¶  ,<„b  йц  З   ‹‹Ђа   @Ђ8?”Г„Ыu‹цЂ  t3ТлІцEмur„ТtU‹К3Аєюяяи    Yлyj‹MрІ‹и    І‹и    ‹И‹Uр‹и    ‹Mр‹Uр‹и    І‹и    ‹И‹Uр‹и    І	‹и    ‹И‹Uр‹и    л„ТtЖEчлЖEч
-j‹MрЉUч‹и    „Ы„/  ‹яЂа   й"  З   ‹‹Ђа   @Ђ8?”Г„Ыu‹цЂ  t3ТлІцEмus„ТtU‹Кё   єюяяи    YлwІ‹и    ‰Eш‹Mш‹Uр‹и    І‹и    ‹Р‹Mр‹и    І‹и    ‹И‹Uш‹и    І	‹и    ‹И‹Uр‹и    л„ТtЖEчлЖEчj‹MрЉUч‹и    „Ы„Z  ‹яЂа   йM  3А‰‹‹Ђа   @Ђ8?”Г„Ыu‹цЂ  t3ТлІ„Тt*цEмuU‹К3Ає   и    Yл[U‹К3Ає   и    YлIj‹MрІ‹и    І‹и    ‹И‹Uр‹и    І	‹и    ‰Eш‹Mш‹Uр‹и    ‹Mш‹Uр‹и    „Ы„¦  ‹яЂа   й™  ‹‹Ђа   ‰Eд‹яЂа   ‹‹Ђа   ‰Eил‹яЂа   ЌEа‹‹’а   Љи    ‹Eаєф  и    …АХ‹‹ђа   Љ<}t<,u;Uиu‹‹Uд‰ђа   ‹Eм‰йO  U‹‹ђа   J‹Eии    Y‹ш‹‹Ђа   Ђ8,…Ђ   ‹яЂа   ‹‹Ђа   ‰Eил‹яЂа   ЌEЬ‹‹’а   Љи    ‹EЬєф  и    …АХ‹‹Ђа   Ђ8}t‹‹Uд‰ђа   йМ   ‹‹Ђа   ;EиuёюяялU‹РJ‹Eии    Yл‹З;З}є|   ‹‹яй“   …я~3Т‰…А~
-‹ѓКѓК‰‹‹’а   BЂ:?”Г„Ыu‹ц‚  t3ТлІцEмtU‹К‹Ч’и    YлU‹К‹Ч’и    Y„Ыt‹яЂа   ‹яЂа   ‹‹Ђа   Љ <*t<+t<?t<{uєk   ‹‹я3АZYYd‰hв  ЌEЬє   и    Гй    лл‹Eр_^[‹е]Гяяяя
-   0123456789  U‹мS‹Ш‹E‹@шцЂ  t‹E‹@шІи    ‹U‰Bьл‹E‹@шІи    ‹U‰Bь‹E‹@ш‹Уи    ‹E‹@ш3Ти    ‹E‹@ф‹ ѓИѓИ‹U‹Rф‰[]ГU‹мSVW‹ш‹Зи    ‹Ш…Ы~ѕ   ЉT7я‹E‹@ши    FKuн_^[]ГU‹мV3ц<ar<fw, <0r<Fw<9v<As‹E‹@шєl   ‹ял‹рЃжя   ѓо0<Arѓо‹Ж^]ГU‹мQSVW‹Ш‹Г,t,u‹E‹@шІи    ‰Eьл‹E‹@шІи    ‰EьЂГлЂлs	‹EЖ@пл‹EЖ@п ‹E‹@ш‹Ђм   ‹U‰Bр‹E‹@ш‹Ђр   ‹U‰Bи‹E3Т‰Pд‹EЌxДѕ¤   №   уҐ‹EЖ@Гя‹EЖ@В ‹Eь_^[Y]Г                                  U‹мS‹Ш‹E‹УЃвя   ЈPДr/‹Eя@д‹E:XГs‹E€XГ‹E:XВv‹E€XВ‹EЃгя   «XД[]ГU‹мѓДаSVW‹Ш‹EЖ@Б „Ыt<‹EP‹Ги    Y‹EЂxп „Ъ  ‹EP‹E‹pш‹У‹†$  я–   и    Yй·  ‹Eѓxд №[  є  ё\  и    ‹EЉ@Г‹U:BВv№\  є  ёњ  и    ‹EѓxдЏА   ‹E‹@ш‹Ђм   ‹U‹RшЃВи   ;Вu‹E‹@иѓА‹U‹Rш‰‚р   й5  ‹E‹@р‹U‹Rш‰‚м   ‹EЉ@Г‹UЉRВ*РrJB‹M‹ШЃгя   ЈYДs‹M‹Iш‹‰м   €‹M‹IшяЃм   @юКuРл‹UЉRВ‹M€‹E‹@шяЂм   ‹E‹@ш‹Ђм   ‹U‹RрѓВ;ВrРй«   ‹E‹@ш‹Ђм   ‹U‹RшЃВи   ;Вu‹E‹@иѓА ‹U‹Rш‰‚р   лx‹E‹XрKѓлЂ;u/ѕа  Ќ}а№   уҐЌEа‹UѓВД± и    ‹EЌuаЌxД№   уҐ‹EЖ‹E‹@р‹U‹Rш‰‚м   ‹U‹Р‹EѓАД№    и    ‹E‹@шѓЂм    _^[‹е]Гяяяя;   D:\Занятия\Метрология\Метрика Чепина для Python\RegExpr.pas яяяя6   TRegExpr.ParseAtom(subroutine EmitRangeC): empty range  яяяяB   TRegExpr.ParseAtom(subroutine EmitRangeC): RangeChMin > RangeChMax  яяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяU‹м‹U€BА‹URи    Y‹EЖ@Б]ГU‹мSVW‹ш‹Зи    ‹Ш…Ы~ѕ   ‹EPЉD7яи    YFKuо_^[]ГU‹мSV‹р‹Љ 3ТЉРѓВџѓъ‡*  Љ’(   я$•@                    E  `   g   n   u   |   ѓ   Љ   і	йа   і
-йЩ   і
-йТ   ійЛ   ійД   ійЅ   3Ыя‹Ђ8 u‹E‹@шєo   ‹яйћ   ‹Ђ8{uTя‹Ђ8 u‹E‹@шєo   ‹ял}‹Ђ8}tv3АЉГБиЁt‹E‹@шєp   ‹ялZ‹EP‹Љ и    YБг
-Г‹Шл¬‹EP‹Љ и    Y‹Шя‹Ђ8 u‹E‹@шєo   ‹ял‹EP‹Љ и    YБг
-Г‹Шл‹Ш‹Г^[]ГU‹мѓД¬SVW3Й‰M°‰M¬‰Uф‰EшЌ}ш3АUhх	  dя0d‰ 3А‰Eј‹Eф3Т‰‹яЂа   ‹‹Ђа   ‹РJ¶ѓъ.@„х   ѓъ(„
-  ѓк‚;  ѓк#„•   й­  ѓк)„$  Jѓк‚*  й•  ѓъ\„*  ѓк?„  ѓк„б   йs  ѓк^tѓк„е  й`  ‹цЂ  t‹ѓё(   u‹Ђё,   uІ‹и    ‰EьйЮ  І"‹и    ‰EьйН  ‹цЂ  t‹ѓё(   u‹Ђё,   uІ‹и    ‰Eьй›  І#‹и    ‰EьйЉ  ‹цЂ  t!І‹и    ‰Eь‹Eф‹ ѓИѓИ‹Uф‰й^  І$‹и    ‰Eь‹EфѓйG  Ђ8^u/‹цЂ  tU°и    Y‰EьлU°и    Y‰Eь‹яЂа   л%‹цЂ  tU°и    Y‰EьлU°и    Y‰EьЖEБ ‹‹Ђа   Љ <]…
-  Uи    Y‹яЂа   йщ  ‹‹°а   Ђ>-…:  ‹Ж@Ђ8 „.  FЂ>]„$  Ђ}Б „  ‹яЂа   ‹‹Ђа   ЉЂы\uC‹‹Ђа   @Љ А<7w
-ѓаЈ
-  sU°-и    Yй†  ‹яЂа   U‹а   и    Y‹Ш‹цЂ  tЂ}АаuЂыяuUё
-  и    YйЊ   ‹цЂ  tЂ}ААuЂыЯuUёD
-  и    Yлh‹цЂ  t%Ђ}АаuЂыЯuUё
-  и    YUёD
-  и    Yл8:]Аsєm   ‹‹яйЇ  юEАU‹Ги    Y:]АvUЉEАи    YюEА:]Аwо‹яЂа   й®   ‹‹Ђа   Ђ8\…„   ‹яЂа   ‹‹Ђа   Ђ8 uєn   ‹‹яйI  ‹‹Ђа   Љ ,dt
-,t%,tл0Uёp
-  и    YлJU‹‹Ђ  и    Yл9U‹‹Ђ  и    Yл(UU‹а   и    Yи    YлU‹‹Ђа   Љ и    Y‹яЂа   ‹‹Ђа   Ђ8 t‹‹Ђа   Ђ8]…йэяяU3Аи    Y‹‹Ђа   Ђ8]tєq   ‹‹яйЌ  ‹яЂа   ‹Eф‹ ѓИѓИ‹Uф‰йj  Ђ8?…я   @Ђ8#u[‹ѓЂа   л‹яЂа   ‹‹Ђа   Љ „Аt<)uж‹‹Ђа   Ђ8)tє}   ‹‹яй  ‹яЂа   І‹и    ‰Eьй   ‹яЂа   ‹‹Ђа   ‰Eґл‹яЂа   ‹‹Ђа   Љ „Аt<)uж‹‹а   Ђ;)u9ЌE°PЌE¬‹Uґи    ‹E¬‹Л+Mґє   и    ‹U°‹Ќ€  ‹‹ и    „Аuє   ‹‹яйЃ  ‹яЂа   І‹и    ‰Eьйb  ЌMёє   ‹и    ‰Eьѓ}ь u
-3А‰EјйF  ‹Eёѓа‹Uф	й0  єr   ‹‹яй&  єs   ‹‹яй  Ђ8 uєt   ‹‹яй  ‹‹Ђа   ¶ ѓшW:„’  ѓшBtkѓАПѓи	‚µ  ѓиtkйц  ѓиD„    ѓи„с   йЯ  ѓшdtjѓиZtTѓиtйЙ  ѓиs„”   ѓи„э   йІ  І%‹и    ‰Eьй¶  І&‹и    ‰EьйҐ  І‹и    ‰Eьй”  І‹и    ‰Eьйѓ  І‹и    ‰Eь‹Eф‹ ѓИѓИ‹Uф‰йb  І
-‹и    ‰Eь‹Eф‹ ѓИѓИ‹Uф‰йA  U°и    Y‰EьU‹‹Ђ  и    YU3Аи    Y‹Eф‹ ѓИѓИ‹Uф‰й  U°и    Y‰EьU‹‹Ђ  и    YU3Аи    Y‹Eф‹ ѓИѓИ‹Uф‰йП   U°и    Y‰EьU‹‹Ђ  и    YU3Аи    Y‹Eф‹ ѓИѓИ‹Uф‰й–   U°и    Y‰EьU‹‹Ђ  и    YU3Аи    Y‹Eф‹ ѓИѓИ‹Uф‰л`‹цЂ  tІ‹и    ‰EьлІ‹и    ‰Eь‹‹Ђа   ЉЂк0‹и    ‹Eф‹ ѓИѓИ‹Uф‰лUU‹а   и    Yи    Y‹яЂа   й°  ‹я€а   ‹ц‚   „   ‹‹Ђа   Љ <#tч,r,t,u|‹‹Ђа   Ђ8#uFл‹яЂа   ‹‹Ђа   Љ „Аt<
-t<
-uвл‹яЂа   ‹‹Ђа   Љ <
-tк<
-tжл ‹яЂа   ‹‹Ђа   Љ ч,rи,tд,tаІ‹и    ‰Eьй  є    ‹‹Ђа   и    ‹Ш…Ы-‹‹а   Ђ;{tєw   ‹‹яйТ   є    ‹Г@и    @‹Ш‹‹Ђа   ГЉ ѓы~<*t<+t<?t<{uK‹Eфѓѓыu‹Eфѓ‹цЂ  tІ‹и    ‰EьлKІ‹и    ‰Eьл=‹цЂ   t‹‹Ђа   Љ ч,r,t,t‹‹Ђа   Љ‹и    ‹яЂа   K…Ы~‹цЂ   tґ‹‹Ђа   Ђ8#u§3Т‹и    ‹Eь‰Eј3АZYYd‰hь	  ЌE¬є   и    Гй    лл‹Eј_^[‹е]Г   €  € яяяя!   абвгдеёжзийклмнопрстуфхцчшщъыьэюя   яяяя!   АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ   яяяя
-   0123456789  3Т‹€ф   …Йtѓёа    t‹ђа   +С‹ВГSVWUѓДд‰L$‰$‹рЌl$3я‹†Ф   ‰E ‹$@ѓА‰D$‹ћЬ   +] ;\$~‹\$‹$¶ ѓш‡М  ЉЂY   я$…w                       	
-  Ј   ±   П   $  °  X  }  ›  К  я  ‹ы} йz  GяE ;ЯЋn  ‹D$Љ ‹U :tзй\  GяE ;Я~
-‹D$Љ ‹U :tл;ЯЋ?  ‹D$Љ‹†$  я–   €D$лGяE ;ЯЋ  ‹E Љ ‹T$:tз:D$tбй  ‹D$¶ ‹D†‰D$ѓ|$ „т  ‹D$¶ ‹D†@‰D$ѓ|$ „Ш  ‹D$‰D$‹D$;D$s1‹E ;†Ь   ѓ·  ‹E Љ ‹T$:…¦  яE яD$‹D$;D$rПG‹E ‰†Ф   ;|$|­йw  ‹D$¶ ‹D†‰D$ѓ|$ „f  ‹D$¶ ‹D†@‰D$ѓ|$ „L  ‹D$‰D$‹D$;D$sI‹E ;†Ь   ѓ+  ‹D$Љ ‹U Љ:Гt‹D$Љ‹†$  я–   :Ш…  яE яD$‹D$;D$r·G‹E ‰†Ф   ;|$|•йУ   GяE ;ЯЋЗ   ‹E Ђ80‚»   ‹E Ђ89vай®   GяE ;ЯЋў   ‹E Љ <0rл<9wзйђ   GяE ;ЯЋ„   ‹E Љ ‹T$:tз‹T$B:tЮ‹T$ѓВ:tУлaGяE ;Я~Y‹E Љ ‹T$:tL‹E Љ ‹T$B:t>‹E Љ ‹T$ѓВ:uНл,GяE ;Я~$‹E Љ ‹T$%я   Јrел3яєи  ‹Ж‹ял	‹E ‰†Ф   ‹ЗѓД]_^[ГQи   ;Рu3А‰$лЌB‹ …Аu3А‰$лВ‰$‹$ZГU‹мѓД¤SVW3Й‰M¤‰MЁ‰M¬‰M°‹р3АUhѕ  dя0d‰ ЖEя ‰Uшѓ}ш „`  ‹Eш@‹…Ыu3А‰Eфл]ш‰]ф‹Eш¶ ѓшD‡  ЉЂk   я$…°     	    
-  
-  {    ф      §  )  C  њ  Ф    ™  ч  e  л  F  ©  €  €  €  а    Z  В  '  ¶	  u  ‹†Ф   ;†Ш   t#ЌE°‹–Ф   JЉи    ‹E°‹–  и    …А-‹†Ф   Ђ8 t"ЌE¬‹–Ф   Љи    ‹E¬‹–  и    …Аb‹†Ф   ;†Ш   tPЌEЁ‹–Ф   JЉи    ‹EЁ‹–  и    …А~-‹†Ф   Ђ8 t&ЌE¤‹–Ф   Љи    ‹E¤‹–  и    …А~3Ал°‹UшЂ:%”В2В…ґ	  й”	  ‹†Ф   ;†Ш   …ќ	  й}	  ‹†Ф   Ђ8 …‰	  йi	  ‹†Ф   ;†Ш   †W	  ‹†Ф   HЉ €EлЉEл:†.  u&‹†Ф   H;†Ш   v‹†Ф   ѓиЉ :†-  „	  ЉEл:†-  u‹†Ф   Љ :†.  „	  ЉEл%я   Ј†/  ѓ	  йб  ‹†Ф   Ђ8 „Т  ‹†Ф   Љ €EлЉEл:†-  u‹†Ф   @Љ :†.  „§  ЉEл:†.  u#‹†Ф   ;†Ш   v‹†Ф   HЉ :†-  „”  ЉEл%я   Ј†/  ѓ  й_  ‹†Ф   Ђ8 „k  я†Ф   йE  ‹†Ф   Ђ8 „Q  ‹†Ф   Љ :†-  u‹†Ф   @Љ :†.  „,  ‹†Ф   Љ %я   Ј†/  ‚  я†Ф   йм  ‹†Ф   Ђ8 „ш  ‹†Ф   Ђ80‚й  ‹†Ф   Ђ89‡Ъ  я†Ф   йґ  ‹†Ф   Ђ8 „А  ‹†Ф   Ђ80r‹†Ф   Ђ89†¦  я†Ф   йЂ  ‹Eш@ѓА‰Eр‹EрЉ ‹–Ф   :t‹EрЉ‹†$  я–   ‹–Ф   :…c  ‹Eри    ‹Ш‹ы‹†Ф   ‰Eмѓя~4яEмяEр‹EрЉ ‹Uм:t‹EрЉ‹†$  я–   ‹Uм:…  OѓяМћФ   йп  ‹Eш@ѓА‰Eр‹EрЉ ‹–Ф   :…н  ‹Eри    ‹Ш‹ы‹†Ф   ‰Eмѓя~яEмяEр‹EрЉ ‹Uм:…Ѕ  OѓядћФ   й‘  ‹Eш@ѓА¶8ѓ|ѕ „—  ѓ|ѕ@ „Њ  ‹†Ф   ‰Eм‹Dѕ‰Eрл%‹Eм;†Ь   ѓk  ‹EмЉ ‹Uр:…[  яEмяEр‹Dѕ@;EрwТ‹Eм‰†Ф   й#  ‹Eш@ѓА¶8ѓ|ѕ „)  ѓ|ѕ@ „  ‹†Ф   ‰Eм‹Dѕ‰Eрл=‹Eм;†Ь   ѓэ  ‹EрЉ ‹Uм:t‹EрЉ‹†$  я–   ‹Uм:…Х  яEмяEр‹Dѕ@;Eрwє‹Eм‰†Ф   йќ  ‹†Ф   Ђ8 „©  ‹†Ф   Љ ‹UшBѓВ:t.‹†Ф   Љ ‹UшBѓВB:t‹†Ф   Љ ‹UшBѓВѓВ:…h  я†Ф   йB  ‹†Ф   Ђ8 „N  ‹†Ф   Љ ‹UшBѓВ:„7  ‹†Ф   Љ ‹UшBѓВB:„  ‹†Ф   Љ ‹UшBѓВѓВ:„  я†Ф   йЯ  ‹†Ф   Ђ8 „л  ‹†Ф   Љ ‹UшBѓВ%я   ЈѓО  я†Ф   йЁ  ‹Eш¶8ѓп'‹Dѕ‰Eм‹†Ф   ‰Dѕ‹Uф‹Жи    €EяЂ}я …’  ‹Eм‰Dѕй†  ‹Eш¶8ѓп6‹Dѕ@‰Eм‹†Ф   ‰Dѕ@‹Uф‹Жи    €EяЂ}я …U  ‹Eм‰Dѕ@йI  ‹EфЂ8t‹Eш@ѓА‰Eфй  ‹†Ф   ‰Eм‹UшBѓВ‹Жи    €EяЂ}я …  ‹Eм‰†Ф   ‹Uш‹Жи    ‰Eшѓ}ш „о  ‹EшЂ8tґйб  ‹ѕ¤   я†¤   ѓѕ¤   
-~єц  ‹Ж‹яйј  ‹†Ф   ‰Eм‹†¤   3Т‰T†x‹Uф‹Жи    €Eя‰ѕ¤   Ђ}я …Љ  ‹Eм‰†Ф   й|  ѓѕ¤    єч  ‹Ж‹яйc  ‹Eш@ѓАѓА‹ Eш‰Eр‹Eш@ѓА‹ ‰Eд‹Eш@ѓАѓА‹ ‰Eа‹†Ф   ‰Eм‹†¤   ‹D†x;EдЊи   ‹EшЂ8up‹†¤   ‹D†x;Eа}6‹†¤   яD†x‹ѕ¤   ‹Uр‹Жи    €Eя‰ѕ¤   Ђ}я …Ц  ‹Eм‰†Ф   яЋ¤   ‹Uф‹Жи    €EяЂ}я …°  ‹Eм‰†Ф   йў  ‹Uф‹Жи    €EяЂ}я …‹  ‹Eм‰†Ф   ‹†¤   ‹D†x;Eа}6‹†¤   яD†x‹ѕ¤   ‹Uр‹Жи    €Eя‰ѕ¤   Ђ}я …F  ‹Eм‰†Ф   яЋ¤   й2  ‹†¤   яD†x‹ѕ¤   ‹Uр‹Жи    €Eя‰ѕ¤   Ђ}я …  ‹†¤   яL†x‹Eм‰†Ф   йн  ЖEл ‹EфЂ8u‹Eф@ѓАЉ €EлЗEаяяя‹EшЂ8
-t‹EшЂ8u3А‰Eдл4‹EшЂ8t‹EшЂ8u	ЗEд   л‹Eш@ѓА‹ ‰Eд‹Eш@ѓАѓА‹ ‰Eа‹†Ф   ‰Eм‹Eш@ѓА‰Eр‹EшЂ8t‹EшЂ8 uѓEр‹EшЂ8t‹EшЂ8t‹EшЂ8 …Ћ   ‹Mа‹Uр‹Жи    ‰Eа‹}д;}аЏ$  ‹EмЗ‰†Ф   Ђ}л t
-‹†Ф   Љ :EлuIЌUґЌF|№(   и    ‹†¤   ‰EЬ‹Uф‹Жи    „Аt	ЖEяйЦ   ЌV|ЌEґ№(   и    ‹EЬ‰†¤   G;}а~“йІ   ‹Mа‹Uр‹Жи    ‹ш;}дЊљ   Ђ}л t
-‹†Ф   Љ :EлuFЌUґЌF|№(   и    ‹†¤   ‰EЬ‹Uф‹Жи    „АtЖEялZЌV|ЌEґ№(   и    ‹EЬ‰†¤   O‹EмЗ‰†Ф   ;}д}–л.ЖEял(єй  ‹Ж‹ял‹Eф‰Eшѓ}ш … фяяєк  ‹Ж‹я3АZYYd‰hЕ  ЌE¤є   и    Гй    ллЉEя_^[‹е]ГSVWUѓД”‹р‹ь‰ѓ? „J  ‹‹Жи    ‰D$‹¶ ѓшD‡  ЉЂ>   я$…ѓ     	
-      
-  D  з   Q  ю   Q  J  a  љ  У    %  a  ¦  Q  Q  Q  >  N  ^  Ј  і  м  ы  
-  0  Ќѕґ   ѕh  №   уҐйb  ЂЋґ   є   ‹Жи    „А„G  ‹†(  и    ‰D$лЃгя   «ћґ   яD$‹D$Љ„Ыuей  Ќѕґ   ѕh  №   уҐйя  VЃЖґ   Ќ|$№   уҐ^ЌD$є€  ± и    Ќѕґ   Ќt$№   уҐйЖ  VЃЖґ   Ќ|$№   уҐ^ЌD$єЁ  ± и    Ќѕґ   Ќt$№   уҐйЌ  ‹@ѓАЉ %я   «†ґ   ‹@ѓАЉ‹†$  я–   %я   «†ґ   йT  ‹@ѓАЉ %я   «†ґ   й;  VWЃЖґ   Ќ|$№   уҐ_^ЌD$‹BѓВ± и    Ќѕґ   Ќt$№   уҐйя  ‹@ѓАЉ %я   «†ґ   ‹@ѓА@Љ %я   «†ґ   ‹@ѓАѓАЉ %я   «†ґ   йє  VWЃЖґ   Ќ|$№   уҐ_^VWѕh  Ќ|$4№   уҐ_^‹@ѓАЉЌD$L± и    ‹@ѓА@Љ %я   «D$L‹@ѓАѓАЉ %я   «D$LЌT$LЌD$,± и    ЌT$,ЌD$± и    Ќѕґ   Ќt$№   уҐй"  ‹T$‹Жи    й  ‹T$‹Жи    й  ‹D$Ђ8t‹@ѓА‰D$йЫ   ‹BѓВ‹Жи    ‹‹Жи    ‰ѓ? „Й   ‹Ђ8tШйЅ   ‹T$‹Жи    й­   ‹@ѓАѓА‹ ‰D$‹@ѓА‹(‹T$‹Жи    …н…Ѓ   ‹T$‹Жи    лt‹BѓВ‹Жи    лV‹BѓВ‹Жи    лV‹@ѓАѓА‰D$‹@ѓА‹(‹T$‹Жи    …н2л!Ќѕґ   ѕh  №   уҐлєй  ‹Ж‹ял‹D$‰ѓ? …¶ыяяѓДl]_^[Гяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяя      я                        яяяяяя ьяяяяяяяяяяяяяяяяяяяяяяяяS‹Ш‹Ги    є   ‹Ги    [Гє   и    Ги    Ги    ГU‹мS‹UѓВь3А‹
-3Ы‰\Ѓ‹
-3Ы‰\Ѓ@@ѓшuк[]ГU‹мS‹Ш‹E‹@ь‰Ф   ‹E‹@ь‹ђь   B‹E‹@ьи    „Аt‹U‹Rь‰Z‹U‹Rь‹’Ф   ‹M‹Iь‰Q@[]ГU‹мѓДмSVW3Й‰Mм‹ъ‰EьЌuш3АUhЫ  dя0d‰ 3ЫUи    Y‹Eьи    „А„€  ‹Eьѓё   uєн  ‹Eь‹яйk  ЌEм‹Uь‹’  и    ‹Eми    ‰Eрѓя}єо  ‹Eь‹яй9  ‹Eр@;шЏ-  ‹Eьё  O‰}ф‹Eьѓё¬    tK‹Eф‰‹Eь‹Ђ¬   Љ‹и    ‰ѓ> t‹Eь‹€°   ‹Eь‹ђ¬   ‹и    …Аtяѓ> uГѓ> „Й   ‹Eь‹Ђ  ‹Uь‰‚Ш   ‹Eь‹Ђ  Eр‹Uь‰‚Ь   ‹Eь3Т‰ђ¤   ‹EьЂё©    tU‹Eфи    Y‹Шл}‹Eф‰‹EьЂёЁ    t6‹EьЉђЁ   ‹и    ‰ѓ> tU‹и    Y‹Ш„ЫuFUи    Yяѓ> uМл6‹Љ ‹Uь%я   Ј‚ґ   sU‹и    Y‹Ш„Ыu‹Ђ8 tUи    YялК3АZYYd‰hв  ЌEми    Гй    лр‹Г_^[‹е]ГSV‹р3Ыѓ~ tѓ~@ u
-єп  ‹Ж‹ял‹F@‹Р+–  B;FuB‹Жи    ‹Ш‹Г^[ГSV‹т‹Шѓ»   uєр  ‹Г‹я^[Г‹Ж‹“  и    ^[ГU‹мj SVW‹ъ‹Ш3АUh°   dя0d‰ 3А3Т‰Tѓ3Т‰Tѓ@@ѓшuо‹Зи    ‹рѓ»   t-ЌEь‹“  и    ‹Eьи    ;рt‹ѓ  и    3А‰ѓ  ѓ»   uЌFи    ‰ѓ  ‹Зи    ‹Р‹О‹ѓ  и    3АZYYd‰h·   ЌEьи    Гй    лр_^[Y]ГSV‹т‹Ш‹Ж‹“(  и    tЌѓ(  ‹Ци    ‹Ги    ^[ГSV‹т‹Ш‹Жи    ѓшuTЉ:FuєЂ   ‹Г‹я^[ГЂ»,   tЉ:ѓ-  uЉF:ѓ.  tPЖѓ,  Љ€ѓ-  ЉF€ѓ.  ‹Ги    л/‹Жи    …АuЂ»,   tЖѓ,   ‹Ги    лєЂ   ‹Г‹я^[ГSVѓДф‹т‹ШЂ»,   tE‹ДЉ“-  €PЖ ‹ФЌD$и    ЌD$Љ“.  €PЖ ЌT$ЌD$±и    ЌT$‹Жи    л‹Жи    ѓД^[ГU‹мQVW‹рЌ}ь3Т‹‰‹E‹@ь;v‹Ђ8{t3Ал°„Аtя‹M‹Iь;v‹Ђ9&uял'ТЌ’‹¶	ѓй0Ся‹M‹Iь;v‹Љ	ЂБРЂй
-rЩ„Аt‹E‹@ь;v‹Ђ8}uял‹‰‹;uѓКя‹‰‹В_^Y]ГU‹мѓДдSVW‰Mш‹Ъ‹ш‹Зи    „А„]  ѓї   uєн  ‹З‹яйD  ‹Ги    …Аu
-‹Eши    й,  ‰]фEф‰Eь3А‰Eд‹Eф‰Eр‹Eр;Eьs]‹EрЉяEрЂы$uUЌEри    Y‹рлѓОя…ц| ѓю}.ѓ|· t'ѓ|·@ t ‹D·@+D·EдлЂы\u‹Eр;EьsяEряEд‹Eр;EьrЈѓ}д u
-‹Eши    й    ‹Eш‹Mд3Ти    ‹Eш‹ ‰Eи‹Eф‰Eр‹Eр;Eьs}‹EрЉяEрЂы$uUЌEри    Y‹рлѓОя…ц|6‹D·‰Eмѓю}Gѓ}м tAѓ|·@ t:л‹EмЉ ‹Uи€яEияEм‹D·@;EмwзлЂы\u‹Eр;Eьs‹EрЉяEр‹Eи€яEи‹Eр;Eьrѓ_^[‹е]ГU‹мѓДрSV3Ы‰]р‰]ф‰Mш‰Uь‹Ш‹Eьи    3АUhЙ   dя0d‰ ѕ   ‹Uь‹Ги    „АtGЌEфP3Т‹Ги    ‹И+О‹Ц‹Eьи    ‹Uф‹Eш‹яQ83Т‹Ги    ‹р3Т‹Ги    р‹Ги    „Аu№ЌEрP№яяя‹Ц‹Eьи    ‹Uр‹Eш‹яQ83АZYYd‰hР   ЌEрє   и    ЌEьи    Гй    лг^[‹е]ГU‹мj j j j j SVW‰Mш‰Uь‹р‹]‹Eьи    3АUhъ   dя0d‰ ‹Ги    ї   ‹Uь‹Жи    „АtoЌEфP3Т‹Жи    ‹И+П‹Ч‹Eьи    ‹Uф‹Ги    Ђ} tЌMр‹Uш‹Жи    ‹Uр‹Ги    л
-‹Г‹Uши    3Т‹Жи    ‹ш3Т‹Жи    ш‹Жи    „Аu‘ЌEмP№яяя‹Ч‹Eьи    ‹Uм‹Ги    3АZYYd‰h  ЌEмє   и    ЌEьи    Гй    лг_^[‹е]В U‹мj j j j j SV‰Mш‰Uь‹Ш‹Eьи    3АUhл   dя0d‰ ‹Eши    ѕ   ‹Uь‹Ги    „Аt_‹Eшя0ЌEфP3Т‹Ги    ‹И+О‹Ц‹Eьи    яuфЌMр‹У‹EяUяuр‹Eшє   и    3Т‹Ги    ‹р3Т‹Ги    р‹Ги    „АuЎЌEмP№яяя‹Ц‹Eьи    ‹Uм‹Eши    ‹Eш3АZYYd‰hт   ЌEмє   и    ЌEьи    Гй    лг^[‹е]В U‹мѓДшS3Ы‰]ш‰Uь‹Ш‹Eьи    3АUhU   dя0d‰ яuяuЌMш‹Uь‹Ги    3АZYYd‰h\   ЌEшє   и    Гй    лл[YY]В SVѓДш‹с‹Ъ3ТЉУѓъD‡г  я$•   Й  1  B  —    0  c  ё  t  –  H  Y  Ы  м  №  К  э    j  §  …  A  R  {  ‰  Ґ  і  Б  Ъ  л  П  Э  л  —  S  d  Ё  u  †  щ  ь  ь  ь  ь  ь  ь  ь  ь  ь  ь  ь  ь  ь  ь  щ  "  "  "  "  "  "  "  "  "  "  "  "  "  "  ‹Жє   и    йА  ‹Жє,  и    йЇ  ‹Жє8  и    йћ  ‹ЖєH  и    йЌ  ‹ЖєX  и    й|  ‹Жєh  и    йk  ‹Жє|  и    йZ  ‹Жє€  и    йI  ‹Жє  и    й8  ‹Жє¬  и    й'  ‹ЖєА  и    й  ‹ЖєФ  и    й  ‹Жєи  и    йф  ‹Жєь  и    йг  ‹Жє  и    йТ  ‹Жє   и    йБ  ‹Жє0  и    й°  ‹ЖєD  и    йџ  ‹ЖєX  и    йЋ  ‹Жєh  и    й}  ‹Жєx  и    йl  ‹ЖєЊ  и    й[  ‹Жєњ  и    йJ  ‹Жє¬  и    й9  ‹Жєј  и    й(  ‹ЖєИ  и    й  ‹ЖєШ  и    й  V3АЉГѓи'‰D$ЖD$ ЌT$3Йём  и    йа   V3АЉГѓи6‰D$ЖD$ ЌT$3Йё   и    йє   ‹Жє  и    й©   ‹Жє$  и    й   ‹Жє4  и    й‡   ‹ЖєD  и    лy‹ЖєX  и    лk‹Жєh  и    л]‹Жєx  и    лO‹Жєђ  и    лA‹ЖєЁ  и    л3‹ЖєА  и    л%‹ЖєР  и    л‹Жєа  и    л	єу  ‹я‹‹Жєф  и    YZ^[Г   яяяя   BOL яяяя   EOL яяяя   BOLML   яяяя   EOLML   яяяя   BOUND   яяяя   NOTBOUND    яяяя   ANY яяяя   ANYML   яяяя	   ANYLETTER   яяяя	   NOTLETTER   яяяя   ANYDIGIT    яяяя   NOTDIGIT    яяяя   ANYSPACE    яяяя   NOTSPACE    яяяя   ANYOF   яяяя   ANYBUT  яяяя   ANYOF/CI    яяяя	   ANYBUT/CI   яяяя   BRANCH  яяяя   EXACTLY яяяя
-   EXACTLY/CI  яяяя   NOTHING яяяя   COMMENT яяяя   BACK    яяяя   END яяяя   BSUBEXP яяяя
-   BSUBEXP/CI  яяяя   OPEN[%d]    яяяя	   CLOSE[%d]   яяяя   STAR    яяяя   PLUS    яяяя   BRACES  яяяя	   LOOPENTRY   яяяя   LOOP    яяяя   LOOPNG  яяяя   ANYOFTINYSET    яяяя
-   ANYBUTTINYSET   яяяя   ANYOFFULLSET    яяяя   STARNG  яяяя   PLUSNG  яяяя   BRACESNG    яяяя   :   U‹м№   j j IuщQSVW‹т‹ш3АUhъ  dя0d‰ ‹Зи    „А„‰  і‹Жи    ‹‡ь   @‰Eь„Ы„Џ  ‹EьЉЌEиP‹Eь+‡ь   ‰EШЖEЬ ЌMФ‹EьЉ‹Зи    ‹EФ‰EаЖEдЌUШ№   ё  и    ‹Uи‹Жи    ‹Uь‹Зи    ‰Eшѓ}ш u‹Жє   и    лN‹Eш;Eьv‹Eш+Eь‰Eрл‹Eь+EшчШ‰EрЌEРP‹Eь+‡ь   Eр‰EИЖEМ ЌUИ3Йё0  и    ‹UР‹Жи    ѓEьЂыt5Ђыt0Ђыt+Ђыt&Ђыt!Ђыu'лЌEД‹UьЉи    ‹UД‹Жи    яEь‹EьЂ8 uЮяEьЂыtЂыu&ЗEф   ЌEА‹UьЉи    ‹UА‹Жи    яEьяMфuбЂыtЂыu'я6h@  ЌUј‹Eь¶ и    яuј‹Жє   и    яEьЂыubЖEп ‹EьЉUпЃвя   Јs@Ђ}п s%я6hL  ЌUё3АЉEпи    яuё‹Жє   и    лЌEґЉUпи    ‹Uґ‹Жи    юEпЂ}п u¦ѓEь ЂыtЂы u?ЌE°P‹Eь‹ ‰EШЖEЬ ‹EьѓА‹ ‰EаЖEд ЌUШ№   ёX  и    ‹U°‹Жи    ѓEьЂыtЂы!uZЌE¬P‹Eь+‡ь   ѓи‹UьѓВ‰E”ЖE ‹Eь‹ ‰EњЖE  ‹EьѓА‹ ‰E¤ЖEЁ ЌU”№   ёh  и    ‹U¬‹Жи    ѓEь‹Жє„  и    „Ы…qэяяЉџЁ   „Ыt я6hђ  ЌEђ‹Уи    яuђ‹Жє   и    Ђї©    t‹Жє   и    ‹џ¬   …Ыt я6hґ  ЌEЊ‹Уи    яuЊ‹Жє   и    ‹ЖєИ  и    ЖEп ЉEп%я   Ј‡ґ   s@Ђ}п s%я6hL  ЌU€3АЉEпи    яu€‹Жє   и    лЌE„ЉUпи    ‹U„‹Жи    юEпЂ}п u¦‹Жє„  и    3АZYYd‰h  ЌE„є   и    ЌE¬є   и    ЌEРє   и    ЌEии    Гй    лЙ_^[‹е]Гяяяя   %2d%s   яяяя    (0)    яяяя    (%d)   яяяя    \  яяяя   #   яяяя   {%d,%d} яяяя    -> (%d) {%d,%d}    яяяя   
-  яяяя   start   яяяя	   anchored    яяяя
-   must have   яяяя   
-FirstCharSet: ‹EГU‹м3ЙQQQQSVW‹т‹Ш3АUhЙ   dя0d‰ ‰і  Ѓюи  }KЌMш‹Ц‹Г‹8яWяuшhа   ‹Ги    ЌUфи    яuфhр   ЌEьє   и    ‹MьІЎ    и    ‹шлЌMр‹Ц‹Г‹8яW‹MрІЎ    и    ‹ш‰w‹Ги    ‰Gи    P‹Зй    3АZYYd‰hР   ЌEрє   и    Гй    лл_^[‹е]Г яяяя    (pos   яяяя   )   U‹м3АUhY   dя0d‰ я    u2ё    и    ё    и    ё    и    ё    и    ё    и    3АZYYd‰h`   Гй    лш]Гѓ-    Гm Ъ Ъ`$
-$Юавджик мм о ррђт ффц шш
- 
-&$ r0
- (468:<>@B‰э	I000" 2  @68:<>@BD! ! % •15U
-}U ±Q UFHi.
-}i ±a	iFH} 
-}} ±(u	}FHќ ЎЎ0Ґ.ҐZL6\ќ
-P4TҐ\ ^6T` ҐbH8Ѕ:Ѕ4LTfЅUT
-	ЌTХЅlHЅbH IюIIIIIIIIIIIII
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pI
-pбY"e1
-q5
-}trZЮIаIвIдIжIк
-pо
-p%%$т
-pцэv&‰x&lllz•ёєҐ,|Z± ±(|~Bl&LfЂ
-]±ZHБXНdЭ^нf†Zээ
-p5э
-Њэ
-`5э
-Њэ
-`5э
-Њэ
-`5э
-Њэ
-`5э
-Њэ
-`5э
-Њэ
-`L LЉє	>	4LV\	
-P8\	
-P8\	
-P2\	
-P2\	
-P2\	
-P„	bHґ)"	,555555555’IIIIIIIIIў]le4)
-m2]
-m0Lje’}Dеf•0}Ґ„µFБфеp
-)T)0l@–КµI–&fљµI–&)25„еИ,е^)]:HdIЖҐ.uJ}\u<}`ҐҐ&}0•еъu0Ґ.Йr}ZҐ,•јҐhБҐ}V}№dБ~Й:Й aЅҐ"БҐ••Ґ}Ґ}>Б¶ҐҐ }Ґ}Ґ}Ґ}>Б¬Ґ$№"БҐ}Ґ }•ћ\Й
-P„•†\Й
-P‚•И№ҐЋЙbHH<Ґ*Ґ&µµ:	L4µђ!8Ґ$Ґ¤!€-’5:-V-25
-5
-љ05
-5
-љQ54ћzњ!A5IL05U:UU8UUUUUUUUi.T,a<a1Ґ"ҐdҐ"Ґ8ҐBҐL!!B!!@Aвa56U>a
-IDa
-I>a
-Ia
-IF55Фa
-I"I"I"UA&A^5uҐ¦|$T(	JҐ.IaҐ"Ґ"Ґ"Ґ"ҐBҐ@!$I5<!$I5<!$I5<!$I5NҐҐ.µ@UХҐ
-еP
-е”ҐҐrµ\µ&abH­@№њ№№D№№№№№№№№№№№m
-еVщ:щ†щщ’щщщщщщщщщщщщщщщщщщщщщщщщщщщ>\P>\PF\P>\PС	м	щzщЋщ@ејщСщXщJщ~щ‚щ•№zњ&щ:њB№\њ&щ4њ®щbH 56е055’55555555555555555555555555>5&Ђb5P5¦d5¦9¦о5@Ёnћ¦B5 5T5еD5R5&555D5"5EQЭҐaҐ
-mҐ
-}Ґ
-‘J™LщRҐ4Ґ‘ml|LЄ@¶™L™‘N™(‘$ҐZHБhҐСL|Э ЭBL2|Ll2fЂ
-ЭZHс~p]эL®]L6](		NЄ>¬®Z	m-	&mPLZn	ЄZ$†X	дa	8Іa	*Q"НT(НЭБ.T0a	bZHu	>Іu	ZQ"НT`&-	``НЭБ.T`u	bZH•	6І•	ZQ,НT<^НЭБ.T` •	bZH­	*І­	2•	­	bHБ	2Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	Б	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pBБ	
-BБ	
-Б	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-pБ	
-p(Б	
-Њ±С	6С	m"ZtБ	.С	
-`е С	
-`‚С	
-`b\`X\`2С	^TС	^\`†С	
-`ЄС	
-`С	
-`2С	\^ С	
-`"С	|^С	
-`DС	^\` С	
-`С	bbbZHuх	э	(э	Pэ	­э	^
-4
-­х	ґэ	bHT
-
-)ќ
-Z
-ц
-Z
-т
-Z
-о
-Z
-к
-Z
-H)ђҐu	4&
-2 
-:B HB
-
-<tф
-„",N
-
-
-ь
-
-r
-ю
-T6
-T
-
-ъь*ю(хю!
-jFjIҐ
-С
-
-
-$$$$$$""0"H
-
- 4F
-
-,H
-ь*
-
-@
-@@,             *ІR
-,::::::Т0Xў&PP
-
-$юZ
-
-J"
-
-&
-
- 
-ъ
-
-
-ьътj&
-$$"".$$"*$((
-0ф".R"
-
-(
-
-
-
-
-
-м(
-ь
-
-к,
-$ь"&"&($
-&(.
-28N 
-
-
-B*$**.****.*$$*юF.
-
-*"юF
-
-*
-4J86*&,юD
- 
-$ $$$P"F:D8*
-$""шь<8*^$*ЭюB
-І
-* .P
-!B""B""*
-$b
-:
- ,",,
-
-
-ь
-
-"
-0""."Ђ
-<
-*ю$
-"ю$Њ
-"$
-
- 
-
-
-
-о""""*****$($*Vю0ю(ю0"(
- *
-F"т8
-V
-ъ&8(М
-ь4ь"0ъ@@шpц
-ъBъP4шVшbъ>2
-
-0N5M
-$
-
-$b
->*
-@\*
-њZR2\
-Pф
-&
- ц
->шnц
- 
-°X8
-
-
-
-"$
-
-
-
-
-$&
-
-
-   8
- & 
- Ю&
-
-&  Ю&
-YщЅ`$
-("ь
-
-$
-h
-h
-(@
-(
-n
-(*.
-
-M
-
-
- 
-
-"$юх
-Р
-
-
-ъ
-0*H
- 
-8
-
-
-(
-:
-
-$*
-$
-*,B
-
-4ъ
-Ff<Љ*."р,"
- 
-
-
-
-
-&ж"
-
-
-(ъ
-
-Ц0
-\
-L,ђb
-J2,ЋZ
-|,–NjЎ"""""""""""""""""""""""""""LL"""ЎJ
-’`@.ь.ь
-
-H
-"Jш0
-v¬’x@@"J*ф ]<–:^* ‘)? ’2  нщ6  с2™ Э@  q@э 9
-@ i
-“	
-Щ  В  ШД  ЪЖ  ЬИ  аК  вМ  дО  жР  иТ  кФ  рЦ  тШ  фЪ  ъЬ  Ю  	а  
-в  д  ж  и  к  !о  )т  9ц  Aъ  eь  yю  …  ‘  ќ	  Е
-  Й Хй  Э с х  
-  ! % ) Q a e i u y }  Ѓ" …$ Ќ& •( С* Щ, Э. е0 н2 с4 х6 э8 : < 
-> @ B D !] 9-…F -m I9СH 9Ґ MIqJ I± UM‘L Mэ YUЎN U	 iYP Y) qi©R i5 uqЕT qI }uV uэ	 ™}y>X }) Ґ™ЎZ ™} ±ҐQ\ Ґ• Ѕ±Н^ ±Ґ ЙЅх` Ѕµ ХЙ-b ЙБ еХYd ХI се}f еu эсСh сЙ 	эIj эa 	­l 	­ %Ў'n 5 5%Y2p %№ A5	(r 5е MAй*t Aщ YM%+v MҐ iYн4x YБ	 uiс;z iБ yuщ| uН }y)~ yЭ Ѓ}QЂ }н ‰Ѓy‚ ЃС Ќ‰e7„ ‰Э ҐЌЌ7† Ќс ©Ґ98€ Ґэ ­©]8Љ ©		 µ­Н8Њ ­} Ѕ№ҐЋ №‰ ЕЅ	ђ Ѕe ЙЕu’ Еq СЙЌ” Й– С эљ њ !ћ A  Qў i¤ ЃQ ™‘}4¦ ‘a Ў™Ў4Ё ™m БЎ№4Є ЎБ нБ!7¬ Б} энХ4® н° э-	 A9І a	 QAб:ґ Au	 aQ;¶ Q­	 qaБ;ё a•	 ±qm;є qј ±ѕ йА В %Y M9EД 9I YM…Ж MИ YК iМ yО ‰Р •• µҐ5Т ҐФ µe ЩЕ©Ц ЕС	 еЩХ<Ш Щ!  н! х! щ%  		U 	mi %	ќ} 1	ХҐ e	эЅ }	e1  х	5  щ	9  
-=  	
-A  
-E  
-I  
-M  
-Q  -
-Y  m]  ma  qe  qm  ќq  ќu  ќy  ЎЃ  С…  С‰  СЌ  Х•  Щ©  э­  ќ  ±  µ  №  Б  aЕ  eЙ  eС  iХ  mХ qХ uЩ  }Э  …б  …е  ‰й  ‰н  Ќс  ‘х  •щ  •  Y	  e
-  i  m  q  u  y!  }%  Ѓ)  …-  ‰1  Ќ5  ‘9  •=  ™A  ќE  ЎI  ҐM  ©Q  ­U  µY  №]  Ѕa  Бe  Еi  Йm  Щq  Эu  бy  й}  нЃ  щ…  э‰  Ќ  ‘  •  ™  ќ  %Ў  )Ґ  9©  A­  е±  йµ  н№  сЅ  хБ  щЕ  эЙ  Н  С  	Х  
-Щ  Э  б  е  й  !н  %с  )х  -щ  1э  5  9  =	  A
-  E  I  M  Q  U!  Y%  ])  a-  e1  i5  m9  q=  uA  yE  }M   Q  …U  ‰]   a  Ii   m  yu   y  ‘Ѓ   Ќ   ™   ќ  5Ў  9©  Г|­  uµ   №  ‘Ѕ  ™Е   Й  эС   Х  )Щ  -б   е  Qй  Uс   х  yщ  }  cz  Ґ
-           !!  %%  )-   1  ©9   =  ЕA  ЙE  НM   Q  U  Y  !a  Сьi   q  Кu  Щy  ЭЃ   …  Q‰  QЌ  ]‘  a™   ќ  НЎ  Н©   ­  х±  э№   Ѕ  -Е   Й  YН  YС  YХ  iЩ  iЭ  iб  mе  Нй  Нн  Нс  Щх  Щщ  Щэ  !  %  )	  -
-  1  Ѓ  …  ‰  Ќ!  ‘%  •-   1  Ў5  С9  Х=  ХA  ЩE  ЭM   Q  }U  }Y  •]  ™a  ™e  ™i  ќm  Ўq  Ґy   }  СЃ  Э…  б‰  бЌ  б‘  еН   С  IХ  e•  e™  eќ  eЎ  iЩ  ­Э  ±б  ±е  µй  №н  Ѕс  Бх  Бщ  Еэ  ЕҐ  Н©  Н­  Н±  Сµ  Э№  MЅ  MБ  MЕ  Qe   i  ­m  Еq  Йu  Нy  С}  СЃ  Х…  Щ‰  ЭЌ  б‘  н•  с™  хќ  щЎ  эҐ   ©     
-   
- 	  5 
-  5   9   Q   Q   U !  ‰ %  ‰ )  Ќ -  э 1  э 5  1!9  1!=  =!A  "E  "I  !"M  !"Q  %"U  ="Y  ="]  A"±   µ  Ґ'Ѕ   Б  	(Е  	(Й  (Н  (С  (Х  (Щ  !(Э  %(б  %(й   н  й*с  с*х  с*э     %+  E+	  I+
-  M+  Q+  U+  Y+  ]+!  a+%  e+)  e+-  m+1  q+9   =  Y2A  a2E  e2I  i2M  m2U   Y  }4]  Ѓ4e   i  Ґ4q   u  №4y  Ѕ4Ѓ   …  Х4Ќ  Щ4©   ­  н4±  с4‘  с4•  щ4™  5ќ  5Ў  !5µ  M5№  Q5Ѕ  U5Е   Й  %7Н  %7Х   Щ  i7б   е  Ќ7й  •7н  ™7х   щ  98	   	  ]8
-	   	  С81	   5	  99	  9=	  !9A	  %9E	  %9I	  )9M	  )9Q	  )9U	  -9Y	  19]	  59	  99	  99	  E9!	  I9%	  Q9)	  U9e	   i	  б:m	  б:q	  е:y	   }	  ;Ѓ	  ;…	  ;Ќ	  ;‘	  !;™	   ќ	  e;Ў	  i;Ґ	  q;©	  u;±	   µ	  №;№	  Ѕ;Ѕ	  Е;Е	   Й	  с;Н	  щ;Х	   Щ	  Э<Э	  б<б	  е<е	  й<й	  н<н	  с<с	  щ<
-   
-  y>х	  Ѓ>щ	  …>	
-  ™>
-  !?”щU` 0BY]Yfю]љюiЂ pBumq
-mvюuЁюqЁю}ЂpBЃ…‰
-Ѓhю…Єю‰ЄюҐ 0 p©B±pµt
-µ]юµi
-±Ѓю©‰юµ‰юЅ h pRБNщ†еће¶ющРюее!	юБµ
-юI`   UQQ±юU1юY`    ]  a] юa юe     q     }`  0 Ѓ$…$Ѓ-ю…-ю‰`  0 Ќ‘Ќ†ю‘†ю•`  0 ќЎ$ Ў,юќ8юҐ`  p ©­©8ю­Fю±Ђ pµ4№4ЅР
-№1юЅ1юµБюБ`    Е  Й ЙLюЕLюН`    С  Х С\юХ\юЭ`    б  е бVюеVюнЂ  0 с хщсtюхtющ‚юэ`  0 щюэю	 H pR
-юю11
-MюMю)`  0 -112ю-Hю5а  0 9=AA\ю=\юA°9Жю9КAКюEК 9аюEаюIа    MQUQVюUЄюMАюMДYД UДUМюMмюYмю]@   aa4юe`    i  i$юi& i<юm   р quyё
-yѕюqтюqтq-юu-ю} р Ѓ"‰"…"Ѓ6ю‰6ю…6юЃ6‰6…6…:юЃ^юЃ^Ѓlю‰њю•а   ќ™ Ўќ(ю™(юЎ(юќ(™( Ў(ќ8ю™8юЎ8юҐ`   © ­­:ю©Ђюµ`   № ЅЅ&ю№BюБA0Е НСЙН2юЙ2юЕ>юС>юЕB НBСBЙBЕrюН¬юЙ¶юСМюе  p нй сй$юн8юн8сdюнdю)А( pB11Єю1Ц1qю1™1aюA=AµюA	A©	юI8 р M"U"Q"UrюQrюM€юM’U’Q’MюUюQюM=U=Q=MaюUaюQaюM‰U‰Q‰U5юQбюM
-юMQQiюMхюMэM%юu ( р y}
-yxю}xюy†}†
-}%юyeю•А  0™
- ќ
-Ў™"юќ"ю™D ќD™zюќzюЎґюҐ` ±&±.юµвµ}ю№Ђ  0ЕЅБЕюЅјюБЪюЙAH pСNС|юС|Щђ Щ°юСєюЩД СДЩШюСШюЩш СшЩuюСЌюбЙЭЭЌюЭэЭ
-юб‘юСЕСЭюбЭmЭйюЭQЭaюбеюС	С)	юбe	Э№	Эq
-юбµюСйС±
-юСЕ
-с
-С‘юс‘юССсС
-хe СuюсuюхuюСµсµ
-хµ С
-юбIЭќЭюсюхюб-ю@  ”ю	`  p
-
-TZю
-Zю     @юb bюxЂюЉю!@ p%%zю-`  11.ю1.1Њю5`@ p99¤ю=Э =ҐюA@   E E&юI`  pM
-QRQXюMXюUЃ  0YYАюY)]1YUюYҐYеюY)YqюYµY	юY	]ю]QYuюY№]юY%юaЃЁ p}M	}a	ю}m
-}Е
-ю}	}aю}™}сю}Y}mю}­}9
-ю…ќ#…­#ю…a$‰‘$ ‰е$ю…-'ю­Ђ    ±  µ±*ю±* µ*ю±>ю№8 р Ѕ(Й,
-ХfХrюХzЙЌюЙ•
-Х•юХµХ‘юЅщюЅщЅaюЅaЅ)юЅ)Ѕ)юЅ)Ѕ‘юЅ‘Ѕ№юЅ№ХQ	ЙaюХaюЙi
-Ѕ•юЅќЅЙюЙЙюеа   нй нюйюн"х, н4юх4юнBхB нRюхRющё pэNN\ю|„ю’ћюэЅюэСэюэ-эiюэ}э5
-юэ5
-э‰
-юэќ
-э=юэ=э‘юэҐэбюэбэEюэEэ%юэ%эхюэхэюэ)1
-э!ю!ю!юэ!!!
-9юeюэЩюэЩ	
-э™ю™ю™юэ™™™
-±юЭю
-э1ю1юэ11
-э]ю]юэ]]
-э!ю!юэ!!
-]юЅ
-эйюйюэйй
-эююэ
-э9ю9юэ99
-uюэнюэнэyюэyэUюэUҐ
-эaюaюэu™
-эUюUюэiэUюэUэхюэ	!
-]юэ‰юэќќ
-= юэe юэe э‰ юэќ эн юэ!Б"
-
-#юэ5#юэ5#эс#юэ$эa$юэa$%
-M%юэu%юэu%э±%юэЕ%&
-Q&юэy&юэy&эЕ&юэЩ&Щ)
-э+ю+юэ5+5+
-э±+ю±+юэЕ+,
-э
--ю
--юэ%-%-
-эН-юН-юэн-э.юэ!.э!/ю5Ш р 9==ю9ею9щ9ю9)9qю9…9Uю9i99ю9M9ю919Ѓю9•9q	ю9…	9…
-ю9™
-9ею9щ9%
-ю99
-9e
-ю9y
-9yю9Ќ9№ю9НM1M}ю9©ю9±9!ю9)M}9№юM№ю9Б9	ю99=ю9E9ЃюQ`   UYYюU,юa@    e  eюm`    q  u q
-юu
-ю}`    Ѓ  … Ѓ
-ю…
-ю‘@  • •Dю™`  ќЎT ќnюЎюҐЃ( p­H
-±L­zю­z
-­’ю­ґ
-­цю­1
-­aю­a
-­•ю±йю±±Бю±н±‘ю±Ѕ±‘юБ   0 ЕЙЕ:юЕ>Й>юНVЕxюНxюС   0 ХЩЩюХ4юХ:Щ:ХTюЩTюЭ  pб4е4
-н8 н\юйnбЭюйЭюеЭюс`  0 хщщDюхRюэА  0 			2ю	Hю	N	N	єю	М	вю	Uю		` 0 
-		
-	®ю	јю	  `		)	P )	Ью	5ю	A	Yю	Yю-	Б8 p1	 
-5	 1	>ю5	>ю1	>
-5	>5	Pю1	fю1	p
-5	p=	~ 1	†ю=	†ю5	†ю1	 
-=	  5	 5	¦ю=	Ію]	вY	)]	9юY	№ю]	№]	ню1	=ю1	q
-]	Y	u]	…юY	]ю]	]]	‘ю]	Ґ]	Ею1	сюa	Ђ  02e	\q	fq	Оюq	ъe	!юq	Aюu	 (p2Ќ	by	b‘	z
-‘	аю‘	Ѕ
-y	йюЌ	ю‘	ю•	Ђ(02™	Z©	t©	ю©	q™	ќю©	Йю­	@2±	N±	ёюБ	А 0 Н	Й	Е	 Й	ЕюЕ	ЕюЙ	сЙ	!
-юЕ	е Е		юН	AюС	аш pЩ	JХ	J
-Щ	hюХ	hюЩ	hХ	h
-б	lб	ћюб	Ёб	yюХ	ЕюЩ	юх	     э	Ђ  p
-<
-<	
-Q
-
-]ю
-…ю	
-Aю
-         a
